@@ -1,0 +1,2943 @@
+2022-11-11 00:48:30 
+2022-11-11 00:48:30 Http Worker is working...
+2022-11-11 00:48:30 GET / HTTP/1.1
+2022-11-11 00:48:30 > This is a [DIRECTORY EXPLORE] request..
+2022-11-11 00:48:30 >> Explore the content under folder: web-mail-service
+2022-11-11 00:48:30 >>> Directory: .idea
+2022-11-11 00:48:31 >>> Directory: out
+2022-11-11 00:48:31 >>> Directory: src
+2022-11-11 00:48:31 >>> File: web-mail-service.iml
+2022-11-11 00:48:31 
+2022-11-11 00:48:31 
+2022-11-11 00:48:31 Http Worker is working...
+2022-11-11 00:48:31 GET /images/folder.png HTTP/1.1
+2022-11-11 00:48:31 Http Worker is working...
+2022-11-11 00:48:31 > This is a [DIRECTORY EXPLORE] request..
+2022-11-11 00:48:31 GET /images/file.png HTTP/1.1
+2022-11-11 00:48:31 > This is a [DIRECTORY EXPLORE] request..
+2022-11-11 00:48:31 >> No such resource:/images/folder.png
+2022-11-11 00:48:31 >> No such resource:/images/file.png
+2022-11-11 00:48:31 
+2022-11-11 00:48:31 
+2022-11-11 00:48:31 Http Worker is working...
+2022-11-11 00:48:31 GET /images/folder.png HTTP/1.1
+2022-11-11 00:48:31 Http Worker is working...
+2022-11-11 00:48:31 > This is a [DIRECTORY EXPLORE] request..
+2022-11-11 00:48:31 GET /images/file.png HTTP/1.1
+2022-11-11 00:48:31 > This is a [DIRECTORY EXPLORE] request..
+2022-11-11 00:48:31 >> No such resource:/images/folder.png
+2022-11-11 00:48:31 >> No such resource:/images/file.png
+2022-11-11 00:48:31 
+2022-11-11 00:48:31 Http Worker is working...
+2022-11-11 00:48:31 GET /favicon.ico HTTP/1.1
+2022-11-11 00:48:31 > This is a [DIRECTORY EXPLORE] request..
+2022-11-11 00:48:31 >> No such resource:/favicon.ico
+2022-11-11 01:20:24 
+2022-11-11 01:20:24 Http Worker is working...
+2022-11-11 01:20:24 GET / HTTP/1.1
+2022-11-11 01:20:24 > This is a [Default] request..
+2022-11-11 01:20:24 >> Explore the content under folder: web-mail-service
+2022-11-11 01:20:24 >>> Directory: .idea
+2022-11-11 01:20:24 >>> Directory: out
+2022-11-11 01:20:24 >>> Directory: resources
+2022-11-11 01:20:24 >>> Directory: src
+2022-11-11 01:20:24 >>> File: web-mail-service.iml
+2022-11-11 01:20:24 >>> File: WebServerLogs.txt
+2022-11-11 01:20:25 
+2022-11-11 01:20:25 Http Worker is working...
+2022-11-11 01:20:25 GET /images/folder.png HTTP/1.1
+2022-11-11 01:20:25 
+2022-11-11 01:20:25 Http Worker is working...
+2022-11-11 01:20:25 GET /images/file.png HTTP/1.1
+2022-11-11 01:20:25 > This is a [Default] request..
+2022-11-11 01:20:25 > This is a [Default] request..
+2022-11-11 01:20:25 >> No such resource:/images/folder.png
+2022-11-11 01:20:25 >> No such resource:/images/file.png
+2022-11-11 01:20:25 
+2022-11-11 01:20:25 Http Worker is working...
+2022-11-11 01:20:25 GET /images/folder.png HTTP/1.1
+2022-11-11 01:20:25 
+2022-11-11 01:20:25 Http Worker is working...
+2022-11-11 01:20:25 GET /images/file.png HTTP/1.1
+2022-11-11 01:20:25 > This is a [Default] request..
+2022-11-11 01:20:25 > This is a [Default] request..
+2022-11-11 01:20:25 >> No such resource:/images/folder.png
+2022-11-11 01:20:25 >> No such resource:/images/file.png
+2022-11-11 01:20:25 
+2022-11-11 01:20:25 Http Worker is working...
+2022-11-11 01:20:25 GET /images/text.png HTTP/1.1
+2022-11-11 01:20:25 > This is a [Default] request..
+2022-11-11 01:20:25 >> No such resource:/images/text.png
+2022-11-11 01:20:25 
+2022-11-11 01:20:25 Http Worker is working...
+2022-11-11 01:20:25 GET /favicon.ico HTTP/1.1
+2022-11-11 01:20:25 > This is a [Default] request..
+2022-11-11 01:20:25 >> No such resource:/favicon.ico
+2022-11-11 01:20:28 
+2022-11-11 01:20:28 Http Worker is working...
+2022-11-11 01:20:28 GET / HTTP/1.1
+2022-11-11 01:20:28 > This is a [Default] request..
+2022-11-11 01:20:28 >> Explore the content under folder: web-mail-service
+2022-11-11 01:20:28 >>> Directory: .idea
+2022-11-11 01:20:28 >>> Directory: out
+2022-11-11 01:20:28 >>> Directory: resources
+2022-11-11 01:20:28 >>> Directory: src
+2022-11-11 01:20:28 >>> File: web-mail-service.iml
+2022-11-11 01:20:28 >>> File: WebServerLogs.txt
+2022-11-11 01:20:28 
+2022-11-11 01:20:28 
+2022-11-11 01:20:28 Http Worker is working...
+2022-11-11 01:20:28 Http Worker is working...
+2022-11-11 01:20:28 GET /images/file.png HTTP/1.1
+2022-11-11 01:20:28 GET /images/folder.png HTTP/1.1
+2022-11-11 01:20:28 > This is a [Default] request..
+2022-11-11 01:20:28 > This is a [Default] request..
+2022-11-11 01:20:28 >> No such resource:/images/folder.png
+2022-11-11 01:20:28 >> No such resource:/images/file.png
+2022-11-11 01:20:28 
+2022-11-11 01:20:28 
+2022-11-11 01:20:28 Http Worker is working...
+2022-11-11 01:20:28 Http Worker is working...
+2022-11-11 01:20:28 GET /images/file.png HTTP/1.1
+2022-11-11 01:20:28 GET /images/folder.png HTTP/1.1
+2022-11-11 01:20:28 > This is a [Default] request..
+2022-11-11 01:20:28 > This is a [Default] request..
+2022-11-11 01:20:28 >> No such resource:/images/folder.png
+2022-11-11 01:20:28 >> No such resource:/images/file.png
+2022-11-11 01:20:28 
+2022-11-11 01:20:28 Http Worker is working...
+2022-11-11 01:20:28 GET /images/text.png HTTP/1.1
+2022-11-11 01:20:28 > This is a [Default] request..
+2022-11-11 01:20:28 >> No such resource:/images/text.png
+2022-11-11 01:20:28 
+2022-11-11 01:20:28 Http Worker is working...
+2022-11-11 01:20:28 GET /favicon.ico HTTP/1.1
+2022-11-11 01:20:28 > This is a [Default] request..
+2022-11-11 01:20:28 >> No such resource:/favicon.ico
+2022-11-11 01:21:57 
+2022-11-11 01:21:57 Http Worker is working...
+2022-11-11 01:21:57 GET / HTTP/1.1
+2022-11-11 01:21:57 > This is a [Default] request..
+2022-11-11 01:21:57 >> No such resource:static/index.html
+2022-11-11 01:21:58 
+2022-11-11 01:21:58 Http Worker is working...
+2022-11-11 01:21:58 GET / HTTP/1.1
+2022-11-11 01:21:58 > This is a [Default] request..
+2022-11-11 01:21:58 >> No such resource:static/index.html
+2022-11-11 01:22:03 
+2022-11-11 01:22:03 Http Worker is working...
+2022-11-11 01:22:03 GET / HTTP/1.1
+2022-11-11 01:22:03 > This is a [Default] request..
+2022-11-11 01:22:03 >> No such resource:static/index.html
+2022-11-11 01:22:39 
+2022-11-11 01:22:39 Http Worker is working...
+2022-11-11 01:22:39 GET / HTTP/1.1
+2022-11-11 01:22:39 > This is a [Default] request..
+2022-11-11 01:22:39 >> No such resource:static/index.html
+2022-11-11 01:23:40 
+2022-11-11 01:23:40 Http Worker is working...
+2022-11-11 01:23:40 GET / HTTP/1.1
+2022-11-11 01:23:40 > This is a [Default] request..
+2022-11-11 01:23:40 >> No such resource:static/index.html
+2022-11-11 01:24:30 
+2022-11-11 01:24:30 Http Worker is working...
+2022-11-11 01:24:30 GET / HTTP/1.1
+2022-11-11 01:24:30 > This is a [Default] request..
+2022-11-11 01:24:30 >> Rendering contents of the file: index.html
+2022-11-11 01:24:31 
+2022-11-11 01:24:31 Http Worker is working...
+2022-11-11 01:24:31 GET /favicon.ico HTTP/1.1
+2022-11-11 01:24:31 > This is a [Default] request..
+2022-11-11 01:24:31 >> Rendering contents of the file: index.html
+2022-11-11 01:24:47 
+2022-11-11 01:24:47 Http Worker is working...
+2022-11-11 01:24:47 GET /basic/mails HTTP/1.1
+2022-11-11 01:24:47 > This is a [Default] request..
+2022-11-11 01:24:47 >> Rendering contents of the file: index.html
+2022-11-11 01:24:47 
+2022-11-11 01:24:47 Http Worker is working...
+2022-11-11 01:24:47 GET /favicon.ico HTTP/1.1
+2022-11-11 01:24:47 > This is a [Default] request..
+2022-11-11 01:24:47 >> Rendering contents of the file: index.html
+2022-11-11 01:34:01 
+2022-11-11 01:34:01 Http Worker is working...
+2022-11-11 01:34:01 GET / HTTP/1.1
+2022-11-11 01:34:01 > This is a [Default] request..
+2022-11-11 01:34:01 >> Rendering contents of the file: index.html
+2022-11-11 01:34:01 
+2022-11-11 01:34:01 Http Worker is working...
+2022-11-11 01:34:01 GET /favicon.ico HTTP/1.1
+2022-11-11 01:34:01 404(NotFound): /favicon.ico
+2022-11-11 01:34:04 
+2022-11-11 01:34:04 Http Worker is working...
+2022-11-11 01:34:04 GET /basic/mails HTTP/1.1
+2022-11-11 01:34:04 404(NotFound): /basic/mails
+2022-11-11 01:36:41 
+2022-11-11 01:36:41 Http Worker is working...
+2022-11-11 01:36:41 GET / HTTP/1.1
+2022-11-11 01:36:41 > This is a [Default] request..
+2022-11-11 01:36:41 >> Rendering contents of the file: index.html
+2022-11-11 01:40:00 
+2022-11-11 01:40:00 Http Worker is working...
+2022-11-11 01:40:00 GET / HTTP/1.1
+2022-11-11 01:40:00 > This is a [Default] request..
+2022-11-11 01:40:00 >> Rendering contents of the file: index.html
+2022-11-11 01:40:02 
+2022-11-11 01:40:02 Http Worker is working...
+2022-11-11 01:40:02 GET /basic/mailForm HTTP/1.1
+2022-11-11 01:40:02 404(NotFound): /basic/mailForm
+2022-11-11 01:46:02 
+2022-11-11 01:46:02 Http Worker is working...
+2022-11-11 01:46:02 GET /basic/mailForm HTTP/1.1
+2022-11-11 01:46:02 > This is a [MailForm] request..
+2022-11-11 01:46:02 >> No such resource:src/resources/templates/basic/mailForm
+2022-11-11 01:46:04 
+2022-11-11 01:46:04 Http Worker is working...
+2022-11-11 01:46:04 GET /basic/mailForm HTTP/1.1
+2022-11-11 01:46:04 > This is a [MailForm] request..
+2022-11-11 01:46:04 >> No such resource:src/resources/templates/basic/mailForm
+2022-11-11 01:46:04 
+2022-11-11 01:46:04 Http Worker is working...
+2022-11-11 01:46:04 GET /basic/mailForm HTTP/1.1
+2022-11-11 01:46:04 > This is a [MailForm] request..
+2022-11-11 01:46:04 >> No such resource:src/resources/templates/basic/mailForm
+2022-11-11 01:46:07 
+2022-11-11 01:46:07 Http Worker is working...
+2022-11-11 01:46:07 GET /basic/mailForm HTTP/1.1
+2022-11-11 01:46:07 > This is a [MailForm] request..
+2022-11-11 01:46:07 >> No such resource:src/resources/templates/basic/mailForm
+2022-11-11 01:46:07 
+2022-11-11 01:46:07 Http Worker is working...
+2022-11-11 01:46:07 GET /basic/mailForm HTTP/1.1
+2022-11-11 01:46:07 > This is a [MailForm] request..
+2022-11-11 01:46:07 >> No such resource:src/resources/templates/basic/mailForm
+2022-11-11 01:46:12 
+2022-11-11 01:46:12 Http Worker is working...
+2022-11-11 01:46:12 GET /basic/mailForm HTTP/1.1
+2022-11-11 01:46:12 > This is a [MailForm] request..
+2022-11-11 01:46:12 >> No such resource:src/resources/templates/basic/mailForm
+2022-11-11 01:46:42 
+2022-11-11 01:46:42 Http Worker is working...
+2022-11-11 01:46:42 GET /basic/mailForm HTTP/1.1
+2022-11-11 01:46:42 > This is a [MailForm] request..
+2022-11-11 01:46:42 >> No such resource:src/resources/templates/basic/mailForm
+2022-11-11 01:47:43 
+2022-11-11 01:47:43 Http Worker is working...
+2022-11-11 01:47:43 GET /basic/mailForm HTTP/1.1
+2022-11-11 01:47:43 > This is a [MailForm] request..
+2022-11-11 01:47:43 >> No such resource:src/resources/templates/basic/mailForm
+2022-11-11 01:48:03 
+2022-11-11 01:48:03 Http Worker is working...
+2022-11-11 01:48:03 GET /basic/mailForm HTTP/1.1
+2022-11-11 01:48:03 > This is a [MailForm] request..
+2022-11-11 01:48:03 >> Rendering contents of the file: mailForm.html
+2022-11-11 01:48:03 
+2022-11-11 01:48:03 Http Worker is working...
+2022-11-11 01:48:03 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 01:48:03 404(NotFound): /css/bootstrap.min.css
+2022-11-11 01:48:37 
+2022-11-11 01:48:37 Http Worker is working...
+2022-11-11 01:48:37 POST /basic/mail.html HTTP/1.1
+2022-11-11 01:48:37 400(Bad Request): POST /basic/mail.html HTTP/1.1
+2022-11-11 01:59:32 
+2022-11-11 01:59:32 Http Worker is working...
+2022-11-11 01:59:32 GET / HTTP/1.1
+2022-11-11 01:59:32 400(Bad Request): GET / HTTP/1.1
+2022-11-11 01:59:34 
+2022-11-11 01:59:34 Http Worker is working...
+2022-11-11 01:59:34 GET / HTTP/1.1
+2022-11-11 01:59:34 400(Bad Request): GET / HTTP/1.1
+2022-11-11 02:00:38 
+2022-11-11 02:00:38 Http Worker is working...
+2022-11-11 02:00:38 GET / HTTP/1.1
+2022-11-11 02:00:38 > This is a [Default] request..
+2022-11-11 02:00:38 >> Rendering contents of the file: index.html
+2022-11-11 02:00:40 
+2022-11-11 02:00:40 Http Worker is working...
+2022-11-11 02:00:40 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:00:40 > This is a [MailForm] request..
+2022-11-11 02:00:40 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:00:40 
+2022-11-11 02:00:40 Http Worker is working...
+2022-11-11 02:00:40 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:00:40 404(NotFound): /css/bootstrap.min.css
+2022-11-11 02:01:56 
+2022-11-11 02:01:56 Http Worker is working...
+2022-11-11 02:01:56 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:01:56 > This is a [MailForm] request..
+2022-11-11 02:01:56 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:01:56 
+2022-11-11 02:01:56 Http Worker is working...
+2022-11-11 02:01:56 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:01:56 404(NotFound): /css/bootstrap.min.css
+2022-11-11 02:02:40 
+2022-11-11 02:02:40 Http Worker is working...
+2022-11-11 02:02:40 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:02:40 > This is a [MailForm] request..
+2022-11-11 02:02:40 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:02:40 
+2022-11-11 02:02:40 Http Worker is working...
+2022-11-11 02:02:40 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:02:40 > This is a [css] request..
+2022-11-11 02:02:40 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 02:05:08 
+2022-11-11 02:05:08 Http Worker is working...
+2022-11-11 02:05:08 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:05:08 > This is a [MailForm] request..
+2022-11-11 02:05:08 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:05:08 
+2022-11-11 02:05:08 Http Worker is working...
+2022-11-11 02:05:08 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:05:08 > This is a [css] request..
+2022-11-11 02:05:08 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 02:11:10 
+2022-11-11 02:11:10 Http Worker is working...
+2022-11-11 02:11:10 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:11:10 > This is a [MailForm] request..
+2022-11-11 02:11:10 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:11:10 
+2022-11-11 02:11:10 Http Worker is working...
+2022-11-11 02:11:10 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:11:10 > This is a [css] request..
+2022-11-11 02:11:10 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 02:14:58 
+2022-11-11 02:14:58 Http Worker is working...
+2022-11-11 02:14:58 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:14:58 > This is a [MailForm] request..
+2022-11-11 02:14:58 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:14:58 
+2022-11-11 02:14:58 Http Worker is working...
+2022-11-11 02:14:58 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:14:58 Http Worker is working...
+2022-11-11 02:14:58 > This is a [MailForm] request..
+2022-11-11 02:14:58 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:14:58 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:14:58 > This is a [css] request..
+2022-11-11 02:14:58 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 02:14:58 
+2022-11-11 02:14:58 Http Worker is working...
+2022-11-11 02:14:58 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:14:58 Http Worker is working...
+2022-11-11 02:14:58 > This is a [MailForm] request..
+2022-11-11 02:14:58 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:14:58 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:14:58 > This is a [css] request..
+2022-11-11 02:14:58 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 02:14:59 
+2022-11-11 02:14:59 Http Worker is working...
+2022-11-11 02:14:59 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:14:59 > This is a [css] request..
+2022-11-11 02:14:59 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 02:16:12 
+2022-11-11 02:16:12 Http Worker is working...
+2022-11-11 02:16:12 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:16:12 > This is a [MailForm] request..
+2022-11-11 02:16:12 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:16:12 
+2022-11-11 02:16:12 Http Worker is working...
+2022-11-11 02:16:12 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:16:12 > This is a [css] request..
+2022-11-11 02:16:12 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 02:16:47 
+2022-11-11 02:16:47 Http Worker is working...
+2022-11-11 02:16:47 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:16:47 > This is a [MailForm] request..
+2022-11-11 02:16:47 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:16:48 
+2022-11-11 02:16:48 Http Worker is working...
+2022-11-11 02:16:48 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:16:48 > This is a [css] request..
+2022-11-11 02:16:48 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 02:19:35 
+2022-11-11 02:19:35 Http Worker is working...
+2022-11-11 02:19:35 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:19:35 > This is a [MailForm] request..
+2022-11-11 02:19:35 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:19:35 
+2022-11-11 02:19:35 Http Worker is working...
+2022-11-11 02:19:35 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 02:19:35 > This is a [css] request..
+2022-11-11 02:19:35 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 02:28:04 
+2022-11-11 02:28:04 Http Worker is working...
+2022-11-11 02:28:04 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:28:04 > This is a [MailForm] request..
+2022-11-11 02:28:04 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:28:06 
+2022-11-11 02:28:06 Http Worker is working...
+2022-11-11 02:28:06 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:28:06 > This is a [MailForm] request..
+2022-11-11 02:28:06 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:28:06 
+2022-11-11 02:28:06 Http Worker is working...
+2022-11-11 02:28:06 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:28:06 > This is a [MailForm] request..
+2022-11-11 02:28:06 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:28:06 
+2022-11-11 02:28:06 Http Worker is working...
+2022-11-11 02:28:06 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:28:06 > This is a [MailForm] request..
+2022-11-11 02:28:06 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:28:08 
+2022-11-11 02:28:08 Http Worker is working...
+2022-11-11 02:28:08 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:28:08 > This is a [MailForm] request..
+2022-11-11 02:28:08 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:28:13 
+2022-11-11 02:28:13 Http Worker is working...
+2022-11-11 02:28:13 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:28:13 > This is a [MailForm] request..
+2022-11-11 02:28:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:28:13 
+2022-11-11 02:28:13 Http Worker is working...
+2022-11-11 02:28:13 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:28:13 > This is a [MailForm] request..
+2022-11-11 02:28:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:28:13 
+2022-11-11 02:28:13 Http Worker is working...
+2022-11-11 02:28:13 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:28:13 > This is a [MailForm] request..
+2022-11-11 02:28:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:28:48 
+2022-11-11 02:28:48 Http Worker is working...
+2022-11-11 02:28:48 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:28:48 > This is a [MailForm] request..
+2022-11-11 02:28:48 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:29:26 
+2022-11-11 02:29:26 Http Worker is working...
+2022-11-11 02:29:26 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:29:27 > This is a [MailForm] request..
+2022-11-11 02:29:27 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:29:38 
+2022-11-11 02:29:38 Http Worker is working...
+2022-11-11 02:29:38 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:29:38 > This is a [MailForm] request..
+2022-11-11 02:29:38 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:52:47 
+2022-11-11 02:52:47 Http Worker is working...
+2022-11-11 02:52:47 GET / HTTP/1.1
+2022-11-11 02:52:47 
+2022-11-11 02:52:47 Http Worker is working...
+2022-11-11 02:52:47 GET /basic/mailForm HTTP/1.1
+2022-11-11 02:52:47 > This is a [Default] request..
+2022-11-11 02:52:47 >> Rendering contents of the file: index.html
+2022-11-11 02:52:47 > This is a [MailForm] request..
+2022-11-11 02:52:47 >> Rendering contents of the file: mailForm.html
+2022-11-11 02:52:54 
+2022-11-11 02:52:54 Http Worker is working...
+2022-11-11 02:52:54 GET / HTTP/1.1
+2022-11-11 02:52:54 > This is a [Default] request..
+2022-11-11 02:52:54 >> Rendering contents of the file: index.html
+2022-11-11 02:54:36 
+2022-11-11 02:54:36 Http Worker is working...
+2022-11-11 02:54:36 GET / HTTP/1.1
+2022-11-11 02:54:36 > This is a [Default] request..
+2022-11-11 02:54:36 >> Rendering contents of the file: index.html
+2022-11-11 02:54:51 
+2022-11-11 02:54:51 Http Worker is working...
+2022-11-11 02:54:51 GET / HTTP/1.1
+2022-11-11 02:54:51 > This is a [Default] request..
+2022-11-11 02:54:51 >> Rendering contents of the file: index.html
+2022-11-11 03:31:02 
+2022-11-11 03:31:02 Http Worker is working...
+2022-11-11 03:31:02 GET / HTTP/1.1
+2022-11-11 03:31:02 > This is a [Default] request..
+2022-11-11 03:31:02 >> Rendering contents of the file: index.html
+2022-11-11 03:31:06 
+2022-11-11 03:31:06 Http Worker is working...
+2022-11-11 03:31:06 GET / HTTP/1.1
+2022-11-11 03:31:06 > This is a [Default] request..
+2022-11-11 03:31:06 >> Rendering contents of the file: index.html
+2022-11-11 03:36:15 
+2022-11-11 03:36:15 Http Worker is working...
+2022-11-11 03:36:15 GET / HTTP/1.1
+2022-11-11 03:36:15 > This is a [Default] request..
+2022-11-11 03:36:15 >> Rendering contents of the file: index.html
+2022-11-11 03:36:16 
+2022-11-11 03:36:16 Http Worker is working...
+2022-11-11 03:36:16 GET /basic/mailForm HTTP/1.1
+2022-11-11 03:36:16 > This is a [MailForm] request..
+2022-11-11 03:36:16 >> Rendering contents of the file: mailForm.html
+2022-11-11 03:36:16 
+2022-11-11 03:36:16 Http Worker is working...
+2022-11-11 03:36:16 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 03:36:16 > This is a [css] request..
+2022-11-11 03:36:16 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 03:37:31 
+2022-11-11 03:37:31 Http Worker is working...
+2022-11-11 03:37:31 GET /basic/mailForm HTTP/1.1
+2022-11-11 03:37:31 > This is a [MailForm] request..
+2022-11-11 03:37:31 >> Rendering contents of the file: mailForm.html
+2022-11-11 03:37:31 
+2022-11-11 03:37:31 Http Worker is working...
+2022-11-11 03:37:31 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 03:37:31 > This is a [css] request..
+2022-11-11 03:37:31 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 03:37:48 
+2022-11-11 03:37:48 Http Worker is working...
+2022-11-11 03:37:48 POST /basic/mail.html HTTP/1.1
+2022-11-11 03:37:48 404(NotFound): /basic/mail.html
+2022-11-11 03:52:12 
+2022-11-11 03:52:12 Http Worker is working...
+2022-11-11 03:52:12 GET / HTTP/1.1Host: localhost:8080Connection: keep-alivesec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"sec-ch-ua-mobile: ?0sec-ch-ua-platform: "Windows"Upgrade-Insecure-Requests: 1User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9Sec-Fetch-Site: noneSec-Fetch-Mode: navigateSec-Fetch-User: ?1Sec-Fetch-Dest: documentAccept-Encoding: gzip, deflate, brAccept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+2022-11-11 03:52:12 400(Bad Request): GET / HTTP/1.1Host: localhost:8080Connection: keep-alivesec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"sec-ch-ua-mobile: ?0sec-ch-ua-platform: "Windows"Upgrade-Insecure-Requests: 1User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9Sec-Fetch-Site: noneSec-Fetch-Mode: navigateSec-Fetch-User: ?1Sec-Fetch-Dest: documentAccept-Encoding: gzip, deflate, brAccept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+2022-11-11 03:54:44 
+2022-11-11 03:54:44 Http Worker is working...
+2022-11-11 03:54:44 GET /basic/mailForm HTTP/1.1
+2022-11-11 03:54:44 > This is a [MailForm] request..
+2022-11-11 03:54:44 >> Rendering contents of the file: mailForm.html
+2022-11-11 03:54:44 
+2022-11-11 03:54:44 Http Worker is working...
+2022-11-11 03:54:44 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 03:54:44 > This is a [css] request..
+2022-11-11 03:54:44 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 03:54:48 
+2022-11-11 03:54:48 Http Worker is working...
+2022-11-11 03:54:48 POST /basic/mail.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 55
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+
+2022-11-11 03:54:48 400(Bad Request): POST /basic/mail.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 55
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+
+2022-11-11 04:04:26 
+2022-11-11 04:04:26 Http Worker is working...
+2022-11-11 04:04:26 GET / HTTP/1.1
+2022-11-11 04:04:26 > This is a [Default] request..
+2022-11-11 04:04:27 >> Rendering contents of the file: index.html
+2022-11-11 04:04:28 
+2022-11-11 04:04:28 Http Worker is working...
+2022-11-11 04:04:28 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:04:28 > This is a [MailForm] request..
+2022-11-11 04:04:28 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:04:28 
+2022-11-11 04:04:28 Http Worker is working...
+2022-11-11 04:04:28 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:04:28 > This is a [css] request..
+2022-11-11 04:04:28 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:07:24 
+2022-11-11 04:07:24 Http Worker is working...
+2022-11-11 04:07:24 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:07:24 > This is a [MailForm] request..
+2022-11-11 04:07:24 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:07:25 
+2022-11-11 04:07:25 Http Worker is working...
+2022-11-11 04:07:25 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:07:25 > This is a [css] request..
+2022-11-11 04:07:25 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:08:10 
+2022-11-11 04:08:10 Http Worker is working...
+2022-11-11 04:08:10 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:08:10 > This is a [MailForm] request..
+2022-11-11 04:08:10 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:08:10 
+2022-11-11 04:08:10 Http Worker is working...
+2022-11-11 04:08:10 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:08:10 > This is a [css] request..
+2022-11-11 04:08:10 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:08:19 
+2022-11-11 04:08:19 Http Worker is working...
+2022-11-11 04:08:19 POST /basic/mail.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 59
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+2022-11-11 04:08:19 400(Bad Request): POST /basic/mail.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 59
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+2022-11-11 04:09:36 
+2022-11-11 04:09:36 Http Worker is working...
+2022-11-11 04:09:36 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:09:36 > This is a [MailForm] request..
+2022-11-11 04:09:36 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:09:36 
+2022-11-11 04:09:36 Http Worker is working...
+2022-11-11 04:09:36 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:09:36 > This is a [css] request..
+2022-11-11 04:09:36 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:11:05 
+2022-11-11 04:11:05 Http Worker is working...
+2022-11-11 04:11:05 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:11:05 > This is a [MailForm] request..
+2022-11-11 04:11:05 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:11:06 
+2022-11-11 04:11:06 Http Worker is working...
+2022-11-11 04:11:06 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:11:06 > This is a [css] request..
+2022-11-11 04:11:06 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:11:53 
+2022-11-11 04:11:53 Http Worker is working...
+2022-11-11 04:11:53 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:11:53 > This is a [MailForm] request..
+2022-11-11 04:11:53 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:12:19 
+2022-11-11 04:12:19 
+2022-11-11 04:12:19 Http Worker is working...
+2022-11-11 04:12:19 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:12:19 > This is a [MailForm] request..
+2022-11-11 04:12:19 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:12:19 Http Worker is working...
+2022-11-11 04:12:19 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:12:19 > This is a [css] request..
+2022-11-11 04:12:19 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:12:19 
+2022-11-11 04:12:19 
+2022-11-11 04:12:19 Http Worker is working...
+2022-11-11 04:12:19 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:12:19 > This is a [MailForm] request..
+2022-11-11 04:12:19 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:12:19 Http Worker is working...
+2022-11-11 04:12:19 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:12:19 > This is a [css] request..
+2022-11-11 04:12:19 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:12:19 
+2022-11-11 04:12:19 Http Worker is working...
+2022-11-11 04:12:19 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:12:19 > This is a [css] request..
+2022-11-11 04:12:19 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:14:03 
+2022-11-11 04:14:03 Http Worker is working...
+2022-11-11 04:14:03 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:14:03 > This is a [MailForm] request..
+2022-11-11 04:14:03 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:14:04 
+2022-11-11 04:14:04 Http Worker is working...
+2022-11-11 04:14:04 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:14:04 > This is a [css] request..
+2022-11-11 04:14:04 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:18:30 
+2022-11-11 04:18:30 Http Worker is working...
+2022-11-11 04:18:30 GET /basic/mailF HTTP/1.1
+2022-11-11 04:18:30 404(NotFound): /basic/mailF
+2022-11-11 04:18:32 
+2022-11-11 04:18:32 Http Worker is working...
+2022-11-11 04:18:32 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:18:32 > This is a [MailForm] request..
+2022-11-11 04:18:32 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:18:32 
+2022-11-11 04:18:32 Http Worker is working...
+2022-11-11 04:18:32 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:18:32 > This is a [css] request..
+2022-11-11 04:18:32 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:18:38 
+2022-11-11 04:18:38 Http Worker is working...
+2022-11-11 04:18:38 POST /basic/mailForm.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 62
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+
+2022-11-11 04:18:38 400(Bad Request): POST /basic/mailForm.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 62
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+
+2022-11-11 04:18:39 
+2022-11-11 04:18:39 Http Worker is working...
+2022-11-11 04:18:39 POST /basic/mailForm.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 62
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+
+2022-11-11 04:18:39 400(Bad Request): POST /basic/mailForm.html HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 62
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+
+2022-11-11 04:21:37 
+2022-11-11 04:21:37 Http Worker is working...
+2022-11-11 04:21:37 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:21:37 > This is a [MailForm] request..
+2022-11-11 04:21:37 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:21:37 
+2022-11-11 04:21:37 Http Worker is working...
+2022-11-11 04:21:37 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:21:37 > This is a [css] request..
+2022-11-11 04:21:37 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:21:42 
+2022-11-11 04:21:42 Http Worker is working...
+2022-11-11 04:21:42 POST /basic/mailForm HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 55
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+2022-11-11 04:21:42 400(Bad Request): POST /basic/mailForm HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 55
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+2022-11-11 04:22:11 
+2022-11-11 04:22:11 Http Worker is working...
+2022-11-11 04:22:11 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:22:11 > This is a [MailForm] request..
+2022-11-11 04:22:11 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:22:11 
+2022-11-11 04:22:11 Http Worker is working...
+2022-11-11 04:22:11 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:22:11 > This is a [css] request..
+2022-11-11 04:22:11 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:22:15 
+2022-11-11 04:22:15 Http Worker is working...
+2022-11-11 04:22:15 POST /basic/mailForm HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 58
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+2022-11-11 04:22:15 400(Bad Request): POST /basic/mailForm HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 58
+Cache-Control: max-age=0
+sec-ch-ua: "Google Chrome";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/basic/mailForm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,ko-KR;q=0.8,en-US;q=0.7
+Cookie: Idea-26327f6e=247b6edb-3d44-497d-b786-7a1c934575e5
+2022-11-11 04:27:05 
+2022-11-11 04:27:05 Http Worker is working...
+2022-11-11 04:27:05 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:27:05 > This is a [MailForm] request..
+2022-11-11 04:27:05 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:27:05 
+2022-11-11 04:27:05 Http Worker is working...
+2022-11-11 04:27:05 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:27:05 > This is a [css] request..
+2022-11-11 04:27:05 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:28:35 
+2022-11-11 04:28:36 Http Worker is working...
+2022-11-11 04:28:36 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:28:36 > This is a [MailForm] request..
+2022-11-11 04:28:36 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:28:41 
+2022-11-11 04:28:41 Http Worker is working...
+2022-11-11 04:28:41 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:28:41 > This is a [MailForm] request..
+2022-11-11 04:28:41 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:32:33 
+2022-11-11 04:32:33 Http Worker is working...
+2022-11-11 04:32:33 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:32:33 > This is a [MailForm] request..
+2022-11-11 04:32:33 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:32:33 
+2022-11-11 04:32:33 Http Worker is working...
+2022-11-11 04:32:33 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:32:33 > This is a [css] request..
+2022-11-11 04:32:33 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:32:33 
+2022-11-11 04:32:33 Http Worker is working...
+2022-11-11 04:32:33 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:32:33 > This is a [MailForm] request..
+2022-11-11 04:32:33 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:32:33 
+2022-11-11 04:32:33 Http Worker is working...
+2022-11-11 04:32:33 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:32:33 > This is a [css] request..
+2022-11-11 04:32:33 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:38:59 
+2022-11-11 04:38:59 
+2022-11-11 04:38:59 Http Worker is working...
+2022-11-11 04:38:59 Http Worker is working...
+2022-11-11 04:38:59 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:38:59 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:38:59 > This is a [MailForm] request..
+2022-11-11 04:38:59 > This is a [MailForm] request..
+2022-11-11 04:38:59 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:38:59 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:38:59 
+2022-11-11 04:38:59 
+2022-11-11 04:38:59 Http Worker is working...
+2022-11-11 04:38:59 Http Worker is working...
+2022-11-11 04:38:59 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:38:59 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:38:59 > This is a [MailForm] request..
+2022-11-11 04:38:59 > This is a [MailForm] request..
+2022-11-11 04:38:59 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:38:59 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:38:59 
+2022-11-11 04:38:59 Http Worker is working...
+2022-11-11 04:38:59 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:38:59 > This is a [css] request..
+2022-11-11 04:38:59 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:40:02 
+2022-11-11 04:40:02 Http Worker is working...
+2022-11-11 04:40:02 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:40:02 > This is a [MailForm] request..
+2022-11-11 04:40:02 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:40:02 
+2022-11-11 04:40:02 Http Worker is working...
+2022-11-11 04:40:02 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:40:02 > This is a [css] request..
+2022-11-11 04:40:02 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:40:55 
+2022-11-11 04:40:55 Http Worker is working...
+2022-11-11 04:40:55 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:40:55 
+2022-11-11 04:40:55 Http Worker is working...
+2022-11-11 04:40:55 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:40:55 > This is a [MailForm] request..
+2022-11-11 04:40:55 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:40:55 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:40:55 
+2022-11-11 04:40:55 Http Worker is working...
+2022-11-11 04:40:55 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:40:55 
+2022-11-11 04:40:55 Http Worker is working...
+2022-11-11 04:40:55 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:40:55 > This is a [MailForm] request..
+2022-11-11 04:40:55 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:40:55 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:40:55 
+2022-11-11 04:40:55 Http Worker is working...
+2022-11-11 04:40:55 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:40:55 > This is a [css] request..
+2022-11-11 04:40:55 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:44:06 
+2022-11-11 04:44:06 Http Worker is working...
+2022-11-11 04:44:06 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:44:06 > This is a [MailForm] request..
+2022-11-11 04:44:06 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:44:06 
+2022-11-11 04:44:06 Http Worker is working...
+2022-11-11 04:44:06 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:44:06 > This is a [css] request..
+2022-11-11 04:44:06 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:44:47 
+2022-11-11 04:44:47 Http Worker is working...
+2022-11-11 04:44:47 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:44:47 > This is a [MailForm] request..
+2022-11-11 04:44:47 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:44:47 
+2022-11-11 04:44:47 Http Worker is working...
+2022-11-11 04:44:47 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:44:47 > This is a [css] request..
+2022-11-11 04:44:47 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:53:35 
+2022-11-11 04:53:35 Http Worker is working...
+2022-11-11 04:53:35 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:53:35 > This is a [MailForm] request..
+2022-11-11 04:53:35 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:53:35 
+2022-11-11 04:53:35 Http Worker is working...
+2022-11-11 04:53:35 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:53:35 > This is a [css] request..
+2022-11-11 04:53:35 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:54:10 
+2022-11-11 04:54:10 Http Worker is working...
+2022-11-11 04:54:10 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:54:10 > This is a [MailForm] request..
+2022-11-11 04:54:10 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:54:11 
+2022-11-11 04:54:11 Http Worker is working...
+2022-11-11 04:54:11 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:54:11 > This is a [css] request..
+2022-11-11 04:54:11 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 04:57:32 
+2022-11-11 04:57:32 Http Worker is working...
+2022-11-11 04:57:32 GET /basic/mailForm HTTP/1.1
+2022-11-11 04:57:32 > This is a [MailForm] request..
+2022-11-11 04:57:32 >> Rendering contents of the file: mailForm.html
+2022-11-11 04:57:32 
+2022-11-11 04:57:32 Http Worker is working...
+2022-11-11 04:57:32 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 04:57:32 > This is a [css] request..
+2022-11-11 04:57:32 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:15:41 
+2022-11-11 05:15:41 Http Worker is working...
+2022-11-11 05:15:41 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:15:41 > This is a [MailForm] request..
+2022-11-11 05:15:41 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:15:44 
+2022-11-11 05:15:44 
+2022-11-11 05:15:44 Http Worker is working...
+2022-11-11 05:15:44 Http Worker is working...
+2022-11-11 05:15:44 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:15:44 > This is a [MailForm] request..
+2022-11-11 05:15:44 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:15:44 > This is a [css] request..
+2022-11-11 05:15:44 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:15:44 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:15:44 
+2022-11-11 05:15:44 
+2022-11-11 05:15:44 Http Worker is working...
+2022-11-11 05:15:44 Http Worker is working...
+2022-11-11 05:15:44 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:15:44 > This is a [MailForm] request..
+2022-11-11 05:15:44 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:15:44 > This is a [css] request..
+2022-11-11 05:15:44 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:15:44 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:15:44 
+2022-11-11 05:15:44 Http Worker is working...
+2022-11-11 05:15:44 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:15:44 > This is a [css] request..
+2022-11-11 05:15:44 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:17:17 
+2022-11-11 05:17:17 Http Worker is working...
+2022-11-11 05:17:17 POST /basic/mailForm HTTP/1.1
+2022-11-11 05:17:17 > This is a [MailForm] request..
+2022-11-11 05:17:17 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:18:13 
+2022-11-11 05:18:13 Http Worker is working...
+2022-11-11 05:18:13 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:18:13 > This is a [MailForm] request..
+2022-11-11 05:18:13 Http Worker is working...
+2022-11-11 05:18:13 POST /basic/mailForm HTTP/1.1
+2022-11-11 05:18:13 > This is a [MailForm] request..
+2022-11-11 05:18:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:18:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:18:13 
+2022-11-11 05:18:13 Http Worker is working...
+2022-11-11 05:18:13 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:18:13 > This is a [MailForm] request..
+2022-11-11 05:18:13 Http Worker is working...
+2022-11-11 05:18:13 POST /basic/mailForm HTTP/1.1
+2022-11-11 05:18:13 > This is a [MailForm] request..
+2022-11-11 05:18:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:18:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:18:13 
+2022-11-11 05:18:13 Http Worker is working...
+2022-11-11 05:18:13 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:18:13 > This is a [css] request..
+2022-11-11 05:18:13 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:18:47 
+2022-11-11 05:18:47 Http Worker is working...
+2022-11-11 05:18:47 POST /basic/mailForm HTTP/1.1
+2022-11-11 05:18:47 > This is a [MailForm] request..
+2022-11-11 05:18:47 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:22:20 
+2022-11-11 05:22:20 Http Worker is working...
+2022-11-11 05:22:20 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:22:20 > This is a [MailForm] request..
+2022-11-11 05:22:20 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:22:20 
+2022-11-11 05:22:20 Http Worker is working...
+2022-11-11 05:22:20 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:22:20 > This is a [css] request..
+2022-11-11 05:22:20 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:26:51 
+2022-11-11 05:26:51 
+2022-11-11 05:26:51 Http Worker is working...
+2022-11-11 05:26:51 Http Worker is working...
+2022-11-11 05:26:51 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:26:51 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:26:51 > This is a [MailForm] request..
+2022-11-11 05:26:51 > This is a [MailForm] request..
+2022-11-11 05:26:51 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:26:51 
+2022-11-11 05:26:51 
+2022-11-11 05:26:51 Http Worker is working...
+2022-11-11 05:26:51 Http Worker is working...
+2022-11-11 05:26:51 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:26:51 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:26:51 > This is a [MailForm] request..
+2022-11-11 05:26:51 > This is a [MailForm] request..
+2022-11-11 05:26:51 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:26:51 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:26:51 
+2022-11-11 05:26:51 Http Worker is working...
+2022-11-11 05:26:51 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:26:51 > This is a [css] request..
+2022-11-11 05:26:51 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:27:10 
+2022-11-11 05:27:10 Http Worker is working...
+2022-11-11 05:27:10 POST /basic/index.html HTTP/1.1
+2022-11-11 05:27:10 > This is a [Default] request..
+2022-11-11 05:27:10 >> Rendering contents of the file: index.html
+2022-11-11 05:27:50 
+2022-11-11 05:27:50 Http Worker is working...
+2022-11-11 05:27:50 POST /basic/index.html HTTP/1.1
+2022-11-11 05:27:50 > This is a [Default] request..
+2022-11-11 05:27:50 >> Rendering contents of the file: index.html
+2022-11-11 05:27:58 
+2022-11-11 05:27:58 Http Worker is working...
+2022-11-11 05:27:58 POST /basic/index.html HTTP/1.1
+2022-11-11 05:27:58 > This is a [Default] request..
+2022-11-11 05:27:58 >> Rendering contents of the file: index.html
+2022-11-11 05:28:08 
+2022-11-11 05:28:08 Http Worker is working...
+2022-11-11 05:28:08 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:28:08 > This is a [MailForm] request..
+2022-11-11 05:28:08 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:28:08 
+2022-11-11 05:28:08 Http Worker is working...
+2022-11-11 05:28:08 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:28:08 > This is a [css] request..
+2022-11-11 05:28:08 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:28:56 
+2022-11-11 05:28:56 Http Worker is working...
+2022-11-11 05:28:56 POST /basic/index.html HTTP/1.1
+2022-11-11 05:28:56 > This is a [Default] request..
+2022-11-11 05:28:56 >> Rendering contents of the file: index.html
+2022-11-11 05:30:07 
+2022-11-11 05:30:07 Http Worker is working...
+2022-11-11 05:30:07 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:30:07 > This is a [MailForm] request..
+2022-11-11 05:30:07 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:30:08 
+2022-11-11 05:30:08 Http Worker is working...
+2022-11-11 05:30:08 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:30:08 > This is a [css] request..
+2022-11-11 05:30:08 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:31:09 
+2022-11-11 05:31:09 Http Worker is working...
+2022-11-11 05:31:09 POST /basic/index.html HTTP/1.1
+2022-11-11 05:31:09 > This is a [Default] request..
+2022-11-11 05:31:09 >> Rendering contents of the file: index.html
+2022-11-11 05:31:35 
+2022-11-11 05:31:35 Http Worker is working...
+2022-11-11 05:31:35 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:31:35 > This is a [MailForm] request..
+2022-11-11 05:31:35 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:31:35 
+2022-11-11 05:31:35 Http Worker is working...
+2022-11-11 05:31:35 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:31:35 > This is a [css] request..
+2022-11-11 05:31:35 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:31:39 
+2022-11-11 05:31:39 Http Worker is working...
+2022-11-11 05:31:39 POST /basic/index.html HTTP/1.1
+2022-11-11 05:31:39 > This is a [Default] request..
+2022-11-11 05:31:40 >> Rendering contents of the file: index.html
+2022-11-11 05:32:13 
+2022-11-11 05:32:13 Http Worker is working...
+2022-11-11 05:32:13 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:32:13 > This is a [MailForm] request..
+2022-11-11 05:32:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:32:13 
+2022-11-11 05:32:13 Http Worker is working...
+2022-11-11 05:32:13 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:32:13 > This is a [css] request..
+2022-11-11 05:32:13 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:32:36 
+2022-11-11 05:32:36 Http Worker is working...
+2022-11-11 05:32:36 GET /basic/index.html HTTP/1.1
+2022-11-11 05:32:36 > This is a [Default] request..
+2022-11-11 05:32:36 >> Rendering contents of the file: index.html
+2022-11-11 05:32:39 
+2022-11-11 05:32:39 Http Worker is working...
+2022-11-11 05:32:39 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:32:39 > This is a [MailForm] request..
+2022-11-11 05:32:39 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:32:39 
+2022-11-11 05:32:39 Http Worker is working...
+2022-11-11 05:32:39 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:32:39 > This is a [css] request..
+2022-11-11 05:32:39 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:33:15 
+2022-11-11 05:33:15 Http Worker is working...
+2022-11-11 05:33:15 GET /basic/index.html HTTP/1.1
+2022-11-11 05:33:15 > This is a [Default] request..
+2022-11-11 05:33:15 >> Rendering contents of the file: index.html
+2022-11-11 05:33:17 
+2022-11-11 05:33:17 Http Worker is working...
+2022-11-11 05:33:17 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:33:17 > This is a [MailForm] request..
+2022-11-11 05:33:17 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:33:17 
+2022-11-11 05:33:17 Http Worker is working...
+2022-11-11 05:33:17 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:33:17 > This is a [css] request..
+2022-11-11 05:33:17 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:33:20 
+2022-11-11 05:33:20 Http Worker is working...
+2022-11-11 05:33:20 POST /basic/index.html HTTP/1.1
+2022-11-11 05:33:20 > This is a [Default] request..
+2022-11-11 05:33:20 >> Rendering contents of the file: index.html
+2022-11-11 05:35:00 
+2022-11-11 05:35:00 Http Worker is working...
+2022-11-11 05:35:00 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:35:00 > This is a [MailForm] request..
+2022-11-11 05:35:00 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:35:00 
+2022-11-11 05:35:00 Http Worker is working...
+2022-11-11 05:35:00 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:35:00 > This is a [css] request..
+2022-11-11 05:35:00 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:36:19 
+2022-11-11 05:36:19 Http Worker is working...
+2022-11-11 05:36:19 GET /basic/index.html HTTP/1.1
+2022-11-11 05:36:19 > This is a [Default] request..
+2022-11-11 05:36:19 >> Rendering contents of the file: index.html
+2022-11-11 05:36:21 
+2022-11-11 05:36:21 Http Worker is working...
+2022-11-11 05:36:21 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:36:21 > This is a [MailForm] request..
+2022-11-11 05:36:21 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:36:21 
+2022-11-11 05:36:21 Http Worker is working...
+2022-11-11 05:36:21 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:36:21 > This is a [css] request..
+2022-11-11 05:36:21 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:36:58 
+2022-11-11 05:36:58 Http Worker is working...
+2022-11-11 05:36:58 GET /basic/index.html HTTP/1.1
+2022-11-11 05:36:58 > This is a [Default] request..
+2022-11-11 05:36:58 >> Rendering contents of the file: index.html
+2022-11-11 05:37:02 
+2022-11-11 05:37:02 Http Worker is working...
+2022-11-11 05:37:02 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:37:02 > This is a [MailForm] request..
+2022-11-11 05:37:02 > This is a [MailForm] request..
+2022-11-11 05:37:02 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:37:02 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:37:02 
+2022-11-11 05:37:02 Http Worker is working...
+2022-11-11 05:37:02 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:37:02 > This is a [MailForm] request..
+2022-11-11 05:37:02 > This is a [MailForm] request..
+2022-11-11 05:37:02 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:37:02 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:37:02 
+2022-11-11 05:37:02 Http Worker is working...
+2022-11-11 05:37:02 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:37:02 > This is a [css] request..
+2022-11-11 05:37:02 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:37:09 
+2022-11-11 05:37:09 Http Worker is working...
+2022-11-11 05:37:09 POST /basic/index.html HTTP/1.1
+2022-11-11 05:37:09 > This is a [Default] request..
+2022-11-11 05:37:09 >> Rendering contents of the file: index.html
+2022-11-11 05:39:34 
+2022-11-11 05:39:34 Http Worker is working...
+2022-11-11 05:39:34 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:39:34 
+2022-11-11 05:39:34 Http Worker is working...
+2022-11-11 05:39:34 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:39:34 > This is a [MailForm] request..
+2022-11-11 05:39:34 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:39:34 > This is a [MailForm] request..
+2022-11-11 05:39:34 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:39:34 
+2022-11-11 05:39:34 Http Worker is working...
+2022-11-11 05:39:34 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:39:34 
+2022-11-11 05:39:34 Http Worker is working...
+2022-11-11 05:39:34 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:39:34 > This is a [MailForm] request..
+2022-11-11 05:39:34 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:39:34 > This is a [MailForm] request..
+2022-11-11 05:39:34 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:39:34 
+2022-11-11 05:39:34 Http Worker is working...
+2022-11-11 05:39:34 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:39:34 > This is a [css] request..
+2022-11-11 05:39:34 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:39:53 
+2022-11-11 05:39:53 Http Worker is working...
+2022-11-11 05:39:53 POST /basic/index.html HTTP/1.1
+2022-11-11 05:39:53 > This is a [Default] request..
+2022-11-11 05:39:53 >> Rendering contents of the file: index.html
+2022-11-11 05:42:36 
+2022-11-11 05:42:36 Http Worker is working...
+2022-11-11 05:42:36 POST /basic/index.html HTTP/1.1
+2022-11-11 05:42:36 > This is a [Default] request..
+2022-11-11 05:42:36 >> Rendering contents of the file: index.html
+2022-11-11 05:55:35 
+2022-11-11 05:55:35 Http Worker is working...
+2022-11-11 05:55:35 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:55:35 > This is a [MailForm] request..
+2022-11-11 05:55:35 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:55:35 
+2022-11-11 05:55:35 Http Worker is working...
+2022-11-11 05:55:35 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:55:35 > This is a [css] request..
+2022-11-11 05:55:35 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:57:07 
+2022-11-11 05:57:07 Http Worker is working...
+2022-11-11 05:57:07 GET /basic/mailForm HTTP/1.1
+2022-11-11 05:57:07 > This is a [MailForm] request..
+2022-11-11 05:57:07 >> Rendering contents of the file: mailForm.html
+2022-11-11 05:57:07 
+2022-11-11 05:57:07 Http Worker is working...
+2022-11-11 05:57:07 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 05:57:07 > This is a [css] request..
+2022-11-11 05:57:07 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 05:57:19 
+2022-11-11 05:57:19 Http Worker is working...
+2022-11-11 05:57:19 POST /basic/index.html HTTP/1.1
+2022-11-11 05:57:19 > This is a [Default] request..
+2022-11-11 05:57:19 >> Rendering contents of the file: index.html
+2022-11-11 06:00:13 
+2022-11-11 06:00:13 Http Worker is working...
+2022-11-11 06:00:13 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:00:13 > This is a [MailForm] request..
+2022-11-11 06:00:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:00:13 
+2022-11-11 06:00:13 Http Worker is working...
+2022-11-11 06:00:13 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:00:13 > This is a [css] request..
+2022-11-11 06:00:13 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:01:16 
+2022-11-11 06:01:16 Http Worker is working...
+2022-11-11 06:01:16 GET /basic/index.html HTTP/1.1
+2022-11-11 06:01:16 > This is a [Default] request..
+2022-11-11 06:01:16 >> Rendering contents of the file: index.html
+2022-11-11 06:01:17 
+2022-11-11 06:01:17 Http Worker is working...
+2022-11-11 06:01:17 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:01:17 > This is a [MailForm] request..
+2022-11-11 06:01:17 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:01:17 
+2022-11-11 06:01:17 Http Worker is working...
+2022-11-11 06:01:17 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:01:17 > This is a [css] request..
+2022-11-11 06:01:17 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:07:42 
+2022-11-11 06:07:42 Http Worker is working...
+2022-11-11 06:07:42 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:07:42 > This is a [MailForm] request..
+2022-11-11 06:07:42 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:07:42 
+2022-11-11 06:07:42 Http Worker is working...
+2022-11-11 06:07:42 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:07:42 > This is a [css] request..
+2022-11-11 06:07:42 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:19:24 
+2022-11-11 06:19:24 Http Worker is working...
+2022-11-11 06:19:24 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:19:24 > This is a [MailForm] request..
+2022-11-11 06:19:24 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:19:24 
+2022-11-11 06:19:24 Http Worker is working...
+2022-11-11 06:19:24 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:19:24 > This is a [css] request..
+2022-11-11 06:19:24 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:19:36 
+2022-11-11 06:19:36 Http Worker is working...
+2022-11-11 06:19:36 POST /basic/index.html HTTP/1.1
+2022-11-11 06:19:36 > This is a [Default] request..
+2022-11-11 06:19:36 >> Rendering contents of the file: index.html
+2022-11-11 06:24:04 
+2022-11-11 06:24:04 Http Worker is working...
+2022-11-11 06:24:04 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:24:04 > This is a [MailForm] request..
+2022-11-11 06:24:04 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:24:04 
+2022-11-11 06:24:04 Http Worker is working...
+2022-11-11 06:24:04 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:24:04 > This is a [css] request..
+2022-11-11 06:24:04 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:24:15 
+2022-11-11 06:24:15 Http Worker is working...
+2022-11-11 06:24:15 POST /basic/index.html HTTP/1.1
+2022-11-11 06:24:15 > This is a [Default] request..
+2022-11-11 06:24:15 >> Rendering contents of the file: index.html
+2022-11-11 06:25:00 
+2022-11-11 06:25:00 Http Worker is working...
+2022-11-11 06:25:00 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:25:00 > This is a [MailForm] request..
+2022-11-11 06:25:00 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:25:00 
+2022-11-11 06:25:00 Http Worker is working...
+2022-11-11 06:25:00 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:25:00 > This is a [css] request..
+2022-11-11 06:25:00 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:29:13 
+2022-11-11 06:29:13 Http Worker is working...
+2022-11-11 06:29:13 GET / HTTP/1.1
+2022-11-11 06:29:13 > This is a [Default] request..
+2022-11-11 06:29:13 >> Rendering contents of the file: index.html
+2022-11-11 06:29:15 
+2022-11-11 06:29:15 Http Worker is working...
+2022-11-11 06:29:15 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:29:15 > This is a [MailForm] request..
+2022-11-11 06:29:15 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:29:15 
+2022-11-11 06:29:15 Http Worker is working...
+2022-11-11 06:29:15 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:29:15 > This is a [css] request..
+2022-11-11 06:29:15 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:29:43 
+2022-11-11 06:29:43 
+2022-11-11 06:29:43 Http Worker is working...
+2022-11-11 06:29:43 Http Worker is working...
+2022-11-11 06:29:43 POST /basic/index.html HTTP/1.1
+2022-11-11 06:29:43 > This is a [Default] request..
+2022-11-11 06:29:43 >> Rendering contents of the file: index.html
+2022-11-11 06:29:43 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:29:43 > This is a [css] request..
+2022-11-11 06:29:43 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:29:43 
+2022-11-11 06:29:43 
+2022-11-11 06:29:43 Http Worker is working...
+2022-11-11 06:29:43 Http Worker is working...
+2022-11-11 06:29:43 POST /basic/index.html HTTP/1.1
+2022-11-11 06:29:43 > This is a [Default] request..
+2022-11-11 06:29:43 >> Rendering contents of the file: index.html
+2022-11-11 06:29:43 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:29:43 > This is a [css] request..
+2022-11-11 06:29:43 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:31:10 
+2022-11-11 06:31:10 Http Worker is working...
+2022-11-11 06:31:10 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:31:10 > This is a [MailForm] request..
+2022-11-11 06:31:10 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:31:10 
+2022-11-11 06:31:10 Http Worker is working...
+2022-11-11 06:31:10 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:31:10 > This is a [css] request..
+2022-11-11 06:31:10 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:31:42 
+2022-11-11 06:31:42 Http Worker is working...
+2022-11-11 06:31:42 POST /basic/index.html HTTP/1.1
+2022-11-11 06:31:42 > This is a [Default] request..
+2022-11-11 06:31:42 >> Rendering contents of the file: index.html
+2022-11-11 06:32:00 
+2022-11-11 06:32:00 Http Worker is working...
+2022-11-11 06:32:00 POST /basic/index.html HTTP/1.1
+2022-11-11 06:32:00 > This is a [Default] request..
+2022-11-11 06:32:00 >> Rendering contents of the file: index.html
+2022-11-11 06:32:08 
+2022-11-11 06:32:08 Http Worker is working...
+2022-11-11 06:32:08 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:32:08 > This is a [MailForm] request..
+2022-11-11 06:32:08 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:32:08 
+2022-11-11 06:32:08 Http Worker is working...
+2022-11-11 06:32:08 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:32:08 > This is a [css] request..
+2022-11-11 06:32:08 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:36:56 
+2022-11-11 06:36:56 Http Worker is working...
+2022-11-11 06:36:56 POST /basic/index.html HTTP/1.1
+2022-11-11 06:36:56 > This is a [Default] request..
+2022-11-11 06:36:56 >> Rendering contents of the file: index.html
+2022-11-11 06:38:21 
+2022-11-11 06:38:21 Http Worker is working...
+2022-11-11 06:38:21 
+2022-11-11 06:38:21 POST /basic/index.html HTTP/1.1
+2022-11-11 06:38:21 Http Worker is working...
+2022-11-11 06:38:21 POST /basic/index.html HTTP/1.1
+2022-11-11 06:38:21 > This is a [Default] request..
+2022-11-11 06:38:21 >> Rendering contents of the file: index.html
+2022-11-11 06:38:21 > This is a [Default] request..
+2022-11-11 06:38:21 >> Rendering contents of the file: index.html
+2022-11-11 06:38:21 
+2022-11-11 06:38:21 Http Worker is working...
+2022-11-11 06:38:21 
+2022-11-11 06:38:21 POST /basic/index.html HTTP/1.1
+2022-11-11 06:38:21 Http Worker is working...
+2022-11-11 06:38:21 POST /basic/index.html HTTP/1.1
+2022-11-11 06:38:21 > This is a [Default] request..
+2022-11-11 06:38:21 >> Rendering contents of the file: index.html
+2022-11-11 06:38:21 > This is a [Default] request..
+2022-11-11 06:38:21 >> Rendering contents of the file: index.html
+2022-11-11 06:38:41 
+2022-11-11 06:38:41 Http Worker is working...
+2022-11-11 06:38:41 POST /basic/index.html HTTP/1.1
+2022-11-11 06:38:41 > This is a [Default] request..
+2022-11-11 06:38:41 >> Rendering contents of the file: index.html
+2022-11-11 06:50:10 
+2022-11-11 06:50:10 Http Worker is working...
+2022-11-11 06:50:10 GET / HTTP/1.1
+2022-11-11 06:50:10 > This is a [Default] request..
+2022-11-11 06:50:10 >> Rendering contents of the file: index.html
+2022-11-11 06:50:12 
+2022-11-11 06:50:12 Http Worker is working...
+2022-11-11 06:50:12 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:50:12 > This is a [MailForm] request..
+2022-11-11 06:50:12 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:50:12 
+2022-11-11 06:50:12 Http Worker is working...
+2022-11-11 06:50:12 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:50:12 > This is a [css] request..
+2022-11-11 06:50:12 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:50:36 
+2022-11-11 06:50:36 Http Worker is working...
+2022-11-11 06:50:36 POST /basic/index.html HTTP/1.1
+2022-11-11 06:50:36 > This is a [Default] request..
+2022-11-11 06:50:36 >> Rendering contents of the file: index.html
+2022-11-11 06:56:05 
+2022-11-11 06:56:05 Http Worker is working...
+2022-11-11 06:56:05 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:56:05 > This is a [MailForm] request..
+2022-11-11 06:56:05 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:56:05 
+2022-11-11 06:56:05 Http Worker is working...
+2022-11-11 06:56:05 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:56:05 > This is a [css] request..
+2022-11-11 06:56:05 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:58:06 
+2022-11-11 06:58:06 Http Worker is working...
+2022-11-11 06:58:06 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:58:06 > This is a [MailForm] request..
+2022-11-11 06:58:06 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:58:07 
+2022-11-11 06:58:07 Http Worker is working...
+2022-11-11 06:58:07 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:58:07 > This is a [css] request..
+2022-11-11 06:58:07 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:58:11 
+2022-11-11 06:58:11 Http Worker is working...
+2022-11-11 06:58:11 GET /basic/index.html?senderAddress=%E3%85%81&recipientAddress=a&subject=a&contents=a HTTP/1.1
+2022-11-11 06:58:11 404(NotFound): /basic/index.html?senderAddress=%E3%85%81&recipientAddress=a&subject=a&contents=a
+2022-11-11 06:58:24 
+2022-11-11 06:58:24 Http Worker is working...
+2022-11-11 06:58:24 GET /basic/index.html?senderAddress=%E3%85%81&recipientAddress=a&subject=a&contents=a HTTP/1.1
+2022-11-11 06:58:24 404(NotFound): /basic/index.html?senderAddress=%E3%85%81&recipientAddress=a&subject=a&contents=a
+2022-11-11 06:58:30 
+2022-11-11 06:58:30 Http Worker is working...
+2022-11-11 06:58:30 GET / HTTP/1.1
+2022-11-11 06:58:30 > This is a [Default] request..
+2022-11-11 06:58:30 >> Rendering contents of the file: index.html
+2022-11-11 06:58:32 
+2022-11-11 06:58:32 Http Worker is working...
+2022-11-11 06:58:32 GET /basic/mailForm HTTP/1.1
+2022-11-11 06:58:32 > This is a [MailForm] request..
+2022-11-11 06:58:32 >> Rendering contents of the file: mailForm.html
+2022-11-11 06:58:32 
+2022-11-11 06:58:32 Http Worker is working...
+2022-11-11 06:58:32 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 06:58:32 > This is a [css] request..
+2022-11-11 06:58:32 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 06:59:39 
+2022-11-11 06:59:39 Http Worker is working...
+2022-11-11 06:59:39 GET /basic/index.html?senderAddress=web%40joobin.site&recipientAddress=sisoya0424%40gmail.com&subject=MAILTEST&contents=how+many+contents+could+be+contained+this+text+box HTTP/1.1
+2022-11-11 06:59:39 404(NotFound): /basic/index.html?senderAddress=web%40joobin.site&recipientAddress=sisoya0424%40gmail.com&subject=MAILTEST&contents=how+many+contents+could+be+contained+this+text+box
+2022-11-11 07:02:59 
+2022-11-11 07:02:59 Http Worker is working...
+2022-11-11 07:02:59 GET / HTTP/1.1
+2022-11-11 07:02:59 > This is a [Default] request..
+2022-11-11 07:02:59 >> Rendering contents of the file: index.html
+2022-11-11 07:03:00 
+2022-11-11 07:03:00 Http Worker is working...
+2022-11-11 07:03:00 GET /basic/mailForm HTTP/1.1
+2022-11-11 07:03:00 > This is a [MailForm] request..
+2022-11-11 07:03:00 >> Rendering contents of the file: mailForm.html
+2022-11-11 07:03:00 
+2022-11-11 07:03:00 Http Worker is working...
+2022-11-11 07:03:00 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 07:03:00 > This is a [css] request..
+2022-11-11 07:03:00 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 07:04:18 
+2022-11-11 07:04:18 Http Worker is working...
+2022-11-11 07:04:18 GET /basic/index.html HTTP/1.1
+2022-11-11 07:04:18 > This is a [Default] request..
+2022-11-11 07:04:18 >> Rendering contents of the file: index.html
+2022-11-11 07:04:20 
+2022-11-11 07:04:20 Http Worker is working...
+2022-11-11 07:04:20 GET /basic/index.html HTTP/1.1
+2022-11-11 07:04:20 > This is a [Default] request..
+2022-11-11 07:04:20 >> Rendering contents of the file: index.html
+2022-11-11 07:04:21 
+2022-11-11 07:04:21 Http Worker is working...
+2022-11-11 07:04:21 GET /basic/index.html HTTP/1.1
+2022-11-11 07:04:21 > This is a [Default] request..
+2022-11-11 07:04:21 >> Rendering contents of the file: index.html
+2022-11-11 07:04:22 
+2022-11-11 07:04:22 Http Worker is working...
+2022-11-11 07:04:22 GET /basic/index.html HTTP/1.1
+2022-11-11 07:04:22 > This is a [Default] request..
+2022-11-11 07:04:22 >> Rendering contents of the file: index.html
+2022-11-11 07:04:24 
+2022-11-11 07:04:24 Http Worker is working...
+2022-11-11 07:04:24 GET /basic/index.html HTTP/1.1
+2022-11-11 07:04:24 > This is a [Default] request..
+2022-11-11 07:04:24 >> Rendering contents of the file: index.html
+2022-11-11 07:10:56 
+2022-11-11 07:10:56 Http Worker is working...
+2022-11-11 07:10:56 GET / HTTP/1.1
+2022-11-11 07:10:56 > This is a [Default] request..
+2022-11-11 07:10:56 >> Rendering contents of the file: index.html
+2022-11-11 07:11:00 
+2022-11-11 07:11:00 Http Worker is working...
+2022-11-11 07:11:00 GET /basic/mailForm HTTP/1.1
+2022-11-11 07:11:00 > This is a [MailForm] request..
+2022-11-11 07:11:00 >> Rendering contents of the file: mailForm.html
+2022-11-11 07:11:00 
+2022-11-11 07:11:00 Http Worker is working...
+2022-11-11 07:11:00 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 07:11:00 > This is a [css] request..
+2022-11-11 07:11:00 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 07:17:44 
+2022-11-11 07:17:44 Http Worker is working...
+2022-11-11 07:17:44 GET / HTTP/1.1
+2022-11-11 07:17:44 > This is a [Default] request..
+2022-11-11 07:17:44 >> Rendering contents of the file: index.html
+2022-11-11 07:17:44 
+2022-11-11 07:17:44 Http Worker is working...
+2022-11-11 07:17:44 GET /basic/index.html HTTP/1.1
+2022-11-11 07:17:44 > This is a [Default] request..
+2022-11-11 07:17:44 >> Rendering contents of the file: index.html
+2022-11-11 07:17:45 
+2022-11-11 07:17:45 Http Worker is working...
+2022-11-11 07:17:45 GET /basic/mailForm HTTP/1.1
+2022-11-11 07:17:45 > This is a [MailForm] request..
+2022-11-11 07:17:45 >> Rendering contents of the file: mailForm.html
+2022-11-11 07:17:45 
+2022-11-11 07:17:45 Http Worker is working...
+2022-11-11 07:17:45 GET / HTTP/1.1
+2022-11-11 07:17:45 > This is a [Default] request..
+2022-11-11 07:17:45 >> Rendering contents of the file: index.html
+2022-11-11 07:17:45 
+2022-11-11 07:17:45 Http Worker is working...
+2022-11-11 07:17:45 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 07:17:45 > This is a [css] request..
+2022-11-11 07:17:45 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 07:20:23 
+2022-11-11 07:20:23 Http Worker is working...
+2022-11-11 07:20:23 POST /basic/index.html HTTP/1.1
+2022-11-11 07:20:23 > This is a [Default] request..
+2022-11-11 07:20:23 >> Rendering contents of the file: index.html
+2022-11-11 07:23:55 
+2022-11-11 07:23:55 Http Worker is working...
+2022-11-11 07:23:55 POST /basic/index.html HTTP/1.1
+2022-11-11 07:23:55 > This is a [Default] request..
+2022-11-11 07:23:55 >> Rendering contents of the file: index.html
+2022-11-11 07:24:13 
+2022-11-11 07:24:13 Http Worker is working...
+2022-11-11 07:24:13 GET /basic/mailForm HTTP/1.1
+2022-11-11 07:24:13 > This is a [MailForm] request..
+2022-11-11 07:24:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 07:24:13 
+2022-11-11 07:24:13 Http Worker is working...
+2022-11-11 07:24:13 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 07:24:13 > This is a [css] request..
+2022-11-11 07:24:13 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 07:24:16 
+2022-11-11 07:24:16 Http Worker is working...
+2022-11-11 07:24:16 GET /basic/index.html?from=a&to=a&subject=a&contents=a HTTP/1.1
+2022-11-11 07:24:16 404(NotFound): /basic/index.html?from=a&to=a&subject=a&contents=a
+2022-11-11 07:29:17 
+2022-11-11 07:29:17 Http Worker is working...
+2022-11-11 07:29:17 Http Worker is working...
+2022-11-11 07:29:17 GET /basic/index.html HTTP/1.1
+2022-11-11 07:29:17 GET /basic/index.html HTTP/1.1
+2022-11-11 07:29:17 > This is a [Default] request..
+2022-11-11 07:29:17 >> Rendering contents of the file: index.html
+2022-11-11 07:29:17 >> Rendering contents of the file: index.html
+2022-11-11 07:29:17 
+2022-11-11 07:29:17 Http Worker is working...
+2022-11-11 07:29:17 Http Worker is working...
+2022-11-11 07:29:17 GET /basic/index.html HTTP/1.1
+2022-11-11 07:29:17 GET /basic/index.html HTTP/1.1
+2022-11-11 07:29:17 > This is a [Default] request..
+2022-11-11 07:29:17 >> Rendering contents of the file: index.html
+2022-11-11 07:29:17 >> Rendering contents of the file: index.html
+2022-11-11 07:29:18 
+2022-11-11 07:29:18 Http Worker is working...
+2022-11-11 07:29:18 GET /basic/mailForm HTTP/1.1
+2022-11-11 07:29:18 > This is a [MailForm] request..
+2022-11-11 07:29:18 >> Rendering contents of the file: mailForm.html
+2022-11-11 07:29:18 
+2022-11-11 07:29:18 Http Worker is working...
+2022-11-11 07:29:18 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 07:29:18 > This is a [css] request..
+2022-11-11 07:29:18 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 07:29:21 
+2022-11-11 07:29:21 Http Worker is working...
+2022-11-11 07:29:21 GET /basic/index.html?from=a&to=a&subject=a&contents=a HTTP/1.1
+2022-11-11 07:29:21 404(NotFound): /basic/index.html?from=a&to=a&subject=a&contents=a
+2022-11-11 07:50:17 
+2022-11-11 07:50:17 Http Worker is working...
+2022-11-11 07:50:17 GET / HTTP/1.1
+2022-11-11 07:50:17 > This is a [Default] request..
+2022-11-11 07:50:17 >> Rendering contents of the file: index.html
+2022-11-11 07:50:19 
+2022-11-11 07:50:19 Http Worker is working...
+2022-11-11 07:50:19 GET /basic/mailForm HTTP/1.1
+2022-11-11 07:50:19 > This is a [MailForm] request..
+2022-11-11 07:50:19 >> Rendering contents of the file: mailForm.html
+2022-11-11 07:50:19 
+2022-11-11 07:50:19 Http Worker is working...
+2022-11-11 07:50:19 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 07:50:19 > This is a [css] request..
+2022-11-11 07:50:19 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 07:50:51 
+2022-11-11 07:50:51 Http Worker is working...
+2022-11-11 07:50:51 GET /basic/index.html?from=web%40joobin.site&to=sisoya0424%40gmaail.com&subject=subjectdlqslekd.&contents=sodyddddldpdy%0D%0A%EB%91%90%EB%B2%88%EC%A7%B8+%EC%A4%84%0D%0A%EC%84%B8%EB%B2%88%EC%A7%B8+%EC%A4%84%0D%0Aforth+line%0D%0Afive+line%0D%0Aend+line HTTP/1.1
+2022-11-11 07:50:51 404(NotFound): /basic/index.html?from=web@joobin.site&to=sisoya0424@gmaail.com&subject=subjectdlqslekd.&contents=sodyddddldpdy
+두번째 줄
+세번째 줄
+forth line
+five line
+end line
+2022-11-11 07:54:40 
+2022-11-11 07:54:40 Http Worker is working...
+2022-11-11 07:54:40 GET /basic/index.html HTTP/1.1
+2022-11-11 07:54:40 > This is a [Default] request..
+2022-11-11 07:54:40 >> Rendering contents of the file: index.html
+2022-11-11 07:54:41 
+2022-11-11 07:54:41 Http Worker is working...
+2022-11-11 07:54:41 GET /basic/mailForm HTTP/1.1
+2022-11-11 07:54:41 > This is a [MailForm] request..
+2022-11-11 07:54:41 >> Rendering contents of the file: mailForm.html
+2022-11-11 07:54:41 
+2022-11-11 07:54:41 Http Worker is working...
+2022-11-11 07:54:41 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 07:54:41 > This is a [css] request..
+2022-11-11 07:54:41 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 07:54:52 
+2022-11-11 07:54:52 Http Worker is working...
+2022-11-11 07:54:52 GET /basic/index.html?from=sadsad&to=sadsad&subject=sdsa&contents=sadsad+sad+%0D%0Asad%0D%0Af+dd+f%0D%0Adf+d+d+fd+df+%0D%0Adfdsf HTTP/1.1
+2022-11-11 07:54:52 > This is a [Default] request..
+2022-11-11 07:54:52 >> Rendering contents of the file: index.html
+2022-11-11 08:02:08 
+2022-11-11 08:02:08 Http Worker is working...
+2022-11-11 08:02:08 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:02:08 > This is a [MailForm] request..
+2022-11-11 08:02:08 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:02:08 
+2022-11-11 08:02:08 Http Worker is working...
+2022-11-11 08:02:08 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:02:08 > This is a [css] request..
+2022-11-11 08:02:08 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:02:12 
+2022-11-11 08:02:12 Http Worker is working...
+2022-11-11 08:02:12 GET /basic/mailOK?from=sad&to=sd&subject=sd&contents=sd HTTP/1.1
+2022-11-11 08:02:12 404(NotFound): /basic/mailOK
+2022-11-11 08:03:39 
+2022-11-11 08:03:39 Http Worker is working...
+2022-11-11 08:03:39 GET / HTTP/1.1
+2022-11-11 08:03:39 > This is a [Default] request..
+2022-11-11 08:03:39 >> Rendering contents of the file: index.html
+2022-11-11 08:03:41 
+2022-11-11 08:03:41 Http Worker is working...
+2022-11-11 08:03:41 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:03:41 > This is a [MailForm] request..
+2022-11-11 08:03:41 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:03:41 
+2022-11-11 08:03:41 Http Worker is working...
+2022-11-11 08:03:41 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:03:41 > This is a [css] request..
+2022-11-11 08:03:41 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:03:52 
+2022-11-11 08:03:52 Http Worker is working...
+2022-11-11 08:03:52 GET /basic/mailOK?from=web%40joobin.site&to=sisoya0424%40gmail.com&subject=sdsa&contents=sdsdstestest HTTP/1.1
+2022-11-11 08:03:52 > This is a [SendingMailSuccessForm] request..
+2022-11-11 08:03:52 >> Rendering contents of the file: mailOK.html
+2022-11-11 08:03:52 
+2022-11-11 08:03:52 Http Worker is working...
+2022-11-11 08:03:52 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:03:52 > This is a [css] request..
+2022-11-11 08:03:52 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:03:54 
+2022-11-11 08:03:54 Http Worker is working...
+2022-11-11 08:03:54 GET /basic/index.html HTTP/1.1
+2022-11-11 08:03:54 > This is a [Default] request..
+2022-11-11 08:03:54 >> Rendering contents of the file: index.html
+2022-11-11 08:09:27 
+2022-11-11 08:09:27 Http Worker is working...
+2022-11-11 08:09:27 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:09:27 > This is a [MailForm] request..
+2022-11-11 08:09:27 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:09:27 
+2022-11-11 08:09:27 Http Worker is working...
+2022-11-11 08:09:27 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:09:27 > This is a [css] request..
+2022-11-11 08:09:27 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:11:24 
+2022-11-11 08:11:24 Http Worker is working...
+2022-11-11 08:11:24 GET /basic/mailOK?from=web%40joobin.site&to=sisoya0424%40gmail.com&subject=%EC%A0%9C%EB%B0%9C+%EB%90%98%EC%A3%BC%EC%84%B8%EC%9A%94&contents=WebServer+-%3E+MailServer+-%3E%0D%0ASend+to+rcpt%0D%0A HTTP/1.1
+2022-11-11 08:11:24 > This is a [SendingMailSuccessForm] request..
+2022-11-11 08:11:24 >> Rendering contents of the file: mailOK.html
+2022-11-11 08:11:24 
+2022-11-11 08:11:24 Http Worker is working...
+2022-11-11 08:11:24 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:11:24 > This is a [css] request..
+2022-11-11 08:11:24 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:11:45 
+2022-11-11 08:11:45 Http Worker is working...
+2022-11-11 08:11:45 GET / HTTP/1.1
+2022-11-11 08:11:45 
+2022-11-11 08:11:45 > This is a [Default] request..
+2022-11-11 08:11:45 Http Worker is working...
+2022-11-11 08:11:45 GET /basic/index.html HTTP/1.1
+2022-11-11 08:11:45 >> Rendering contents of the file: index.html
+2022-11-11 08:11:45 > This is a [Default] request..
+2022-11-11 08:11:45 >> Rendering contents of the file: index.html
+2022-11-11 08:11:45 
+2022-11-11 08:11:45 Http Worker is working...
+2022-11-11 08:11:45 GET / HTTP/1.1
+2022-11-11 08:11:45 
+2022-11-11 08:11:45 > This is a [Default] request..
+2022-11-11 08:11:45 Http Worker is working...
+2022-11-11 08:11:45 GET /basic/index.html HTTP/1.1
+2022-11-11 08:11:45 >> Rendering contents of the file: index.html
+2022-11-11 08:11:45 > This is a [Default] request..
+2022-11-11 08:11:45 >> Rendering contents of the file: index.html
+2022-11-11 08:11:45 
+2022-11-11 08:11:45 Http Worker is working...
+2022-11-11 08:11:45 GET / HTTP/1.1
+2022-11-11 08:11:45 > This is a [Default] request..
+2022-11-11 08:11:45 >> Rendering contents of the file: index.html
+2022-11-11 08:11:47 
+2022-11-11 08:11:47 Http Worker is working...
+2022-11-11 08:11:47 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:11:47 > This is a [MailForm] request..
+2022-11-11 08:11:47 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:11:47 
+2022-11-11 08:11:47 Http Worker is working...
+2022-11-11 08:11:47 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:11:47 > This is a [css] request..
+2022-11-11 08:11:47 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:12:19 
+2022-11-11 08:12:19 Http Worker is working...
+2022-11-11 08:12:19 GET /basic/mailOK?from=web%40joobin.site&to=sisoya0424%40gmail.com&subject=%EC%A0%9C%EB%B0%9C+%EB%90%98%EC%A3%BC%EC%84%B8%EC%9A%94&contents=WebServer%0D%0A-%3E%0D%0AMailServer%0D%0A-%3E%0D%0ASend+To+RCPT%0D%0A%EC%A0%9C%EB%B0%9C+%EC%9E%90%EA%B3%A0%EC%8B%B6%EC%96%B4 HTTP/1.1
+2022-11-11 08:12:19 > This is a [SendingMailSuccessForm] request..
+2022-11-11 08:12:19 >> Rendering contents of the file: mailOK.html
+2022-11-11 08:12:19 
+2022-11-11 08:12:19 Http Worker is working...
+2022-11-11 08:12:19 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:12:19 > This is a [css] request..
+2022-11-11 08:12:19 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:15:29 
+2022-11-11 08:15:29 Http Worker is working...
+2022-11-11 08:15:29 GET / HTTP/1.1
+2022-11-11 08:15:29 > This is a [Default] request..
+2022-11-11 08:15:29 >> Rendering contents of the file: index.html
+2022-11-11 08:15:31 
+2022-11-11 08:15:31 Http Worker is working...
+2022-11-11 08:15:31 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:15:31 > This is a [MailForm] request..
+2022-11-11 08:15:31 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:15:31 
+2022-11-11 08:15:31 Http Worker is working...
+2022-11-11 08:15:31 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:15:31 > This is a [css] request..
+2022-11-11 08:15:31 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:15:40 
+2022-11-11 08:15:40 Http Worker is working...
+2022-11-11 08:15:40 GET /basic/mailOK?from=web%40joobin.site&to=sisoya0424%40gmail.com&subject=%EC%A0%9C%EB%B0%9C+%EB%90%98%EC%96%B4%EC%A3%BC%EC%84%B8%EC%9A%94&contents=%EC%A0%9C%EB%B0%9C%EC%9D%B4%EC%9A%94 HTTP/1.1
+2022-11-11 08:15:40 > This is a [SendingMailSuccessForm] request..
+2022-11-11 08:15:40 >> Rendering contents of the file: mailOK.html
+2022-11-11 08:15:40 
+2022-11-11 08:15:40 Http Worker is working...
+2022-11-11 08:15:40 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:15:40 > This is a [css] request..
+2022-11-11 08:15:40 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:23:02 
+2022-11-11 08:23:02 Http Worker is working...
+2022-11-11 08:23:02 GET /basic/index.html HTTP/1.1
+2022-11-11 08:23:02 > This is a [Default] request..
+2022-11-11 08:23:02 >> Rendering contents of the file: index.html
+2022-11-11 08:23:03 
+2022-11-11 08:23:03 Http Worker is working...
+2022-11-11 08:23:03 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:23:03 > This is a [MailForm] request..
+2022-11-11 08:23:03 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:23:03 
+2022-11-11 08:23:03 Http Worker is working...
+2022-11-11 08:23:03 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:23:03 > This is a [css] request..
+2022-11-11 08:23:03 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:23:23 
+2022-11-11 08:23:23 Http Worker is working...
+2022-11-11 08:23:23 GET /basic/mailOK?from=web%40joobin.site&to=sisoya0424%40gmail.com&subject=%EC%A0%9C%EB%B0%9C+%EB%A7%88%EC%A7%80%EB%A7%89&contents=%ED%9E%98%EB%93%A4%EB%8B%A4 HTTP/1.1
+2022-11-11 08:23:23 > This is a [SendingMailSuccessForm] request..
+2022-11-11 08:23:23 >> Rendering contents of the file: mailOK.html
+2022-11-11 08:23:23 
+2022-11-11 08:23:23 Http Worker is working...
+2022-11-11 08:23:23 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:23:23 > This is a [css] request..
+2022-11-11 08:23:23 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:37:39 
+2022-11-11 08:37:39 Http Worker is working...
+2022-11-11 08:37:39 GET / HTTP/1.1
+2022-11-11 08:37:39 > This is a [Default] request..
+2022-11-11 08:37:39 >> Rendering contents of the file: index.html
+2022-11-11 08:37:41 
+2022-11-11 08:37:41 Http Worker is working...
+2022-11-11 08:37:41 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:37:41 > This is a [MailForm] request..
+2022-11-11 08:37:41 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:37:41 
+2022-11-11 08:37:41 Http Worker is working...
+2022-11-11 08:37:41 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:37:41 > This is a [css] request..
+2022-11-11 08:37:41 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:38:14 
+2022-11-11 08:38:14 
+2022-11-11 08:38:14 Http Worker is working...
+2022-11-11 08:38:14 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:38:14 Http Worker is working...
+2022-11-11 08:38:14 > This is a [MailForm] request..
+2022-11-11 08:38:14 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:38:14 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:38:14 > This is a [MailForm] request..
+2022-11-11 08:38:14 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:38:14 
+2022-11-11 08:38:14 
+2022-11-11 08:38:14 Http Worker is working...
+2022-11-11 08:38:14 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:38:14 Http Worker is working...
+2022-11-11 08:38:14 > This is a [MailForm] request..
+2022-11-11 08:38:14 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:38:14 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:38:14 > This is a [MailForm] request..
+2022-11-11 08:38:14 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:38:14 
+2022-11-11 08:38:14 Http Worker is working...
+2022-11-11 08:38:14 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:38:14 > This is a [css] request..
+2022-11-11 08:38:14 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:47:03 
+2022-11-11 08:47:03 Http Worker is working...
+2022-11-11 08:47:03 GET / HTTP/1.1
+2022-11-11 08:47:03 Http Worker is working...
+2022-11-11 08:47:03 GET /basic/mailOK?from=&to=&subject=&contents= HTTP/1.1
+2022-11-11 08:47:03 > This is a [Default] request..
+2022-11-11 08:47:03 >> Rendering contents of the file: index.html
+2022-11-11 08:47:03 > This is a [SendingMailSuccessForm] request..
+2022-11-11 08:47:03 >> Rendering contents of the file: mailOK.html
+2022-11-11 08:47:03 
+2022-11-11 08:47:03 Http Worker is working...
+2022-11-11 08:47:03 GET / HTTP/1.1
+2022-11-11 08:47:03 Http Worker is working...
+2022-11-11 08:47:03 GET /basic/mailOK?from=&to=&subject=&contents= HTTP/1.1
+2022-11-11 08:47:03 > This is a [Default] request..
+2022-11-11 08:47:03 >> Rendering contents of the file: index.html
+2022-11-11 08:47:03 > This is a [SendingMailSuccessForm] request..
+2022-11-11 08:47:03 >> Rendering contents of the file: mailOK.html
+2022-11-11 08:47:03 
+2022-11-11 08:47:03 Http Worker is working...
+2022-11-11 08:47:03 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:47:03 > This is a [css] request..
+2022-11-11 08:47:03 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:47:04 
+2022-11-11 08:47:04 Http Worker is working...
+2022-11-11 08:47:04 GET / HTTP/1.1
+2022-11-11 08:47:04 > This is a [Default] request..
+2022-11-11 08:47:04 >> Rendering contents of the file: index.html
+2022-11-11 08:47:07 
+2022-11-11 08:47:07 Http Worker is working...
+2022-11-11 08:47:07 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:47:07 > This is a [MailForm] request..
+2022-11-11 08:47:07 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:47:07 
+2022-11-11 08:47:07 Http Worker is working...
+2022-11-11 08:47:07 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:47:07 > This is a [css] request..
+2022-11-11 08:47:07 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:48:01 
+2022-11-11 08:48:01 Http Worker is working...
+2022-11-11 08:48:01 GET /basic/index.html HTTP/1.1
+2022-11-11 08:48:01 
+2022-11-11 08:48:01 > This is a [Default] request..
+2022-11-11 08:48:01 Http Worker is working...
+2022-11-11 08:48:01 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:48:01 > This is a [MailForm] request..
+2022-11-11 08:48:01 >> Rendering contents of the file: index.html
+2022-11-11 08:48:01 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:48:01 
+2022-11-11 08:48:01 Http Worker is working...
+2022-11-11 08:48:01 GET /basic/index.html HTTP/1.1
+2022-11-11 08:48:01 
+2022-11-11 08:48:01 > This is a [Default] request..
+2022-11-11 08:48:01 Http Worker is working...
+2022-11-11 08:48:01 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:48:01 > This is a [MailForm] request..
+2022-11-11 08:48:01 >> Rendering contents of the file: index.html
+2022-11-11 08:48:01 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:48:02 
+2022-11-11 08:48:02 Http Worker is working...
+2022-11-11 08:48:02 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:48:02 > This is a [MailForm] request..
+2022-11-11 08:48:02 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:48:02 
+2022-11-11 08:48:02 Http Worker is working...
+2022-11-11 08:48:02 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:48:02 > This is a [css] request..
+2022-11-11 08:48:02 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:48:17 
+2022-11-11 08:48:17 Http Worker is working...
+2022-11-11 08:48:17 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:48:17 > This is a [MailForm] request..
+2022-11-11 08:48:17 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:48:17 
+2022-11-11 08:48:17 Http Worker is working...
+2022-11-11 08:48:17 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:48:17 > This is a [css] request..
+2022-11-11 08:48:17 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:49:23 
+2022-11-11 08:49:23 Http Worker is working...
+2022-11-11 08:49:23 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:49:23 > This is a [MailForm] request..
+2022-11-11 08:49:23 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:49:24 
+2022-11-11 08:49:24 Http Worker is working...
+2022-11-11 08:49:24 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:49:24 > This is a [css] request..
+2022-11-11 08:49:24 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:50:03 
+2022-11-11 08:50:03 Http Worker is working...
+2022-11-11 08:50:03 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:50:03 > This is a [css] request..
+2022-11-11 08:50:03 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:50:13 
+2022-11-11 08:50:13 Http Worker is working...
+2022-11-11 08:50:13 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:50:13 > This is a [MailForm] request..
+2022-11-11 08:50:13 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:50:13 
+2022-11-11 08:50:13 Http Worker is working...
+2022-11-11 08:50:13 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:50:13 > This is a [css] request..
+2022-11-11 08:50:13 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:50:45 
+2022-11-11 08:50:45 Http Worker is working...
+2022-11-11 08:50:45 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:50:45 > This is a [css] request..
+2022-11-11 08:50:45 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 08:53:58 
+2022-11-11 08:53:58 Http Worker is working...
+2022-11-11 08:53:58 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:53:58 
+2022-11-11 08:53:58 Http Worker is working...
+2022-11-11 08:53:58 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:53:58 > This is a [MailForm] request..
+2022-11-11 08:53:58 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:53:58 > This is a [MailForm] request..
+2022-11-11 08:53:58 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:53:58 
+2022-11-11 08:53:58 Http Worker is working...
+2022-11-11 08:53:58 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:53:58 
+2022-11-11 08:53:58 Http Worker is working...
+2022-11-11 08:53:58 GET /basic/mailForm HTTP/1.1
+2022-11-11 08:53:58 > This is a [MailForm] request..
+2022-11-11 08:53:58 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:53:58 > This is a [MailForm] request..
+2022-11-11 08:53:58 >> Rendering contents of the file: mailForm.html
+2022-11-11 08:53:58 
+2022-11-11 08:53:58 Http Worker is working...
+2022-11-11 08:53:58 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 08:53:58 > This is a [css] request..
+2022-11-11 08:53:58 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 09:02:42 
+2022-11-11 09:02:42 Http Worker is working...
+2022-11-11 09:02:42 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:02:42 > This is a [MailForm] request..
+2022-11-11 09:02:42 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:02:42 
+2022-11-11 09:02:42 Http Worker is working...
+2022-11-11 09:02:42 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:02:42 > This is a [css] request..
+2022-11-11 09:02:42 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 09:02:43 
+2022-11-11 09:02:43 Http Worker is working...
+2022-11-11 09:02:43 GET /css/bootstrap.min.css.map HTTP/1.1
+2022-11-11 09:02:43 > This is a [css] request..
+2022-11-11 09:02:43 >> No such resource:src/resources/templates/css/bootstrap.min.css.map
+2022-11-11 09:04:27 
+2022-11-11 09:04:27 Http Worker is working...
+2022-11-11 09:04:27 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:04:27 > This is a [css] request..
+2022-11-11 09:04:27 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 09:06:01 
+2022-11-11 09:06:01 Http Worker is working...
+2022-11-11 09:06:01 GET / HTTP/1.1
+2022-11-11 09:06:01 > This is a [Default] request..
+2022-11-11 09:06:01 >> Rendering contents of the file: index.html
+2022-11-11 09:06:16 
+2022-11-11 09:06:16 Http Worker is working...
+2022-11-11 09:06:16 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:06:16 Http Worker is working...
+2022-11-11 09:06:16 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:06:16 > This is a [MailForm] request..
+2022-11-11 09:06:16 > This is a [MailForm] request..
+2022-11-11 09:06:16 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:06:16 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:06:16 
+2022-11-11 09:06:16 Http Worker is working...
+2022-11-11 09:06:16 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:06:16 Http Worker is working...
+2022-11-11 09:06:16 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:06:16 > This is a [MailForm] request..
+2022-11-11 09:06:16 > This is a [MailForm] request..
+2022-11-11 09:06:16 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:06:16 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:06:16 
+2022-11-11 09:06:16 Http Worker is working...
+2022-11-11 09:06:16 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:06:16 > This is a [css] request..
+2022-11-11 09:06:16 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 09:07:15 
+2022-11-11 09:07:15 Http Worker is working...
+2022-11-11 09:07:15 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:07:15 > This is a [MailForm] request..
+2022-11-11 09:07:15 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:07:15 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:07:15 
+2022-11-11 09:07:15 Http Worker is working...
+2022-11-11 09:07:15 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:07:15 > This is a [MailForm] request..
+2022-11-11 09:07:15 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:07:15 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:07:16 
+2022-11-11 09:07:16 Http Worker is working...
+2022-11-11 09:07:16 GET /basic/web-mail-service/src/resources/templates/css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:07:16 404(NotFound): /basic/web-mail-service/src/resources/templates/css/bootstrap.min.css
+2022-11-11 09:07:17 
+2022-11-11 09:07:17 Http Worker is working...
+2022-11-11 09:07:17 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:07:17 > This is a [MailForm] request..
+2022-11-11 09:07:17 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:07:17 
+2022-11-11 09:07:17 Http Worker is working...
+2022-11-11 09:07:17 GET /basic/web-mail-service/src/resources/templates/css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:07:17 404(NotFound): /basic/web-mail-service/src/resources/templates/css/bootstrap.min.css
+2022-11-11 09:07:33 
+2022-11-11 09:07:33 Http Worker is working...
+2022-11-11 09:07:33 GET /basic/web-mail-service/src/resources/templates/css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:07:33 404(NotFound): /basic/web-mail-service/src/resources/templates/css/bootstrap.min.css
+2022-11-11 09:07:48 
+2022-11-11 09:07:48 Http Worker is working...
+2022-11-11 09:07:48 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:07:48 > This is a [css] request..
+2022-11-11 09:07:48 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 09:07:48 
+2022-11-11 09:07:48 Http Worker is working...
+2022-11-11 09:07:48 GET /css/bootstrap.min.css.map HTTP/1.1
+2022-11-11 09:07:48 > This is a [css] request..
+2022-11-11 09:07:48 >> No such resource:src/resources/templates/css/bootstrap.min.css.map
+2022-11-11 09:07:48 
+2022-11-11 09:07:48 Http Worker is working...
+2022-11-11 09:07:48 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:07:48 > This is a [MailForm] request..
+2022-11-11 09:07:48 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:07:48 
+2022-11-11 09:07:48 Http Worker is working...
+2022-11-11 09:07:48 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:07:48 > This is a [css] request..
+2022-11-11 09:07:48 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 09:07:49 
+2022-11-11 09:07:49 Http Worker is working...
+2022-11-11 09:07:49 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:07:49 > This is a [MailForm] request..
+2022-11-11 09:07:49 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:07:49 
+2022-11-11 09:07:49 Http Worker is working...
+2022-11-11 09:07:49 GET /css/bootstrap.min.css.map HTTP/1.1
+2022-11-11 09:07:49 > This is a [css] request..
+2022-11-11 09:07:49 
+2022-11-11 09:07:49 Http Worker is working...
+2022-11-11 09:07:49 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:07:49 > This is a [css] request..
+2022-11-11 09:07:49 >> No such resource:src/resources/templates/css/bootstrap.min.css.map
+2022-11-11 09:07:49 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 09:07:49 
+2022-11-11 09:07:49 Http Worker is working...
+2022-11-11 09:07:49 GET /css/bootstrap.min.css.map HTTP/1.1
+2022-11-11 09:07:49 > This is a [css] request..
+2022-11-11 09:07:49 
+2022-11-11 09:07:49 Http Worker is working...
+2022-11-11 09:07:49 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:07:49 > This is a [css] request..
+2022-11-11 09:07:49 >> No such resource:src/resources/templates/css/bootstrap.min.css.map
+2022-11-11 09:07:49 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 09:07:49 
+2022-11-11 09:07:49 Http Worker is working...
+2022-11-11 09:07:49 GET /css/bootstrap.min.css.map HTTP/1.1
+2022-11-11 09:07:49 > This is a [css] request..
+2022-11-11 09:07:49 >> No such resource:src/resources/templates/css/bootstrap.min.css.map
+2022-11-11 09:08:47 
+2022-11-11 09:08:47 Http Worker is working...
+2022-11-11 09:08:47 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:08:47 > This is a [MailForm] request..
+2022-11-11 09:08:47 Http Worker is working...
+2022-11-11 09:08:47 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:08:47 > This is a [MailForm] request..
+2022-11-11 09:08:47 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:08:47 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:08:47 
+2022-11-11 09:08:47 Http Worker is working...
+2022-11-11 09:08:47 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:08:47 > This is a [MailForm] request..
+2022-11-11 09:08:47 Http Worker is working...
+2022-11-11 09:08:47 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:08:47 > This is a [MailForm] request..
+2022-11-11 09:08:47 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:08:47 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:08:48 
+2022-11-11 09:08:48 Http Worker is working...
+2022-11-11 09:08:48 GET /bootstrap.min.css HTTP/1.1
+2022-11-11 09:08:48 404(NotFound): /bootstrap.min.css
+2022-11-11 09:12:39 
+2022-11-11 09:12:39 Http Worker is working...
+2022-11-11 09:12:39 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:12:39 > This is a [MailForm] request..
+2022-11-11 09:12:39 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:12:39 
+2022-11-11 09:12:39 Http Worker is working...
+2022-11-11 09:12:39 GET /basic/css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:12:39 404(NotFound): /basic/css/bootstrap.min.css
+2022-11-11 09:12:49 
+2022-11-11 09:12:49 Http Worker is working...
+2022-11-11 09:12:49 Http Worker is working...
+2022-11-11 09:12:49 GET /basic/css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:12:49 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:12:49 404(NotFound): /basic/css/bootstrap.min.css
+2022-11-11 09:12:49 > This is a [MailForm] request..
+2022-11-11 09:12:49 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:12:49 
+2022-11-11 09:12:49 Http Worker is working...
+2022-11-11 09:12:49 Http Worker is working...
+2022-11-11 09:12:49 GET /basic/css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:12:49 GET /basic/mailForm HTTP/1.1
+2022-11-11 09:12:49 404(NotFound): /basic/css/bootstrap.min.css
+2022-11-11 09:12:49 > This is a [MailForm] request..
+2022-11-11 09:12:49 >> Rendering contents of the file: mailForm.html
+2022-11-11 09:12:49 
+2022-11-11 09:12:49 Http Worker is working...
+2022-11-11 09:12:49 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 09:12:49 > This is a [css] request..
+2022-11-11 09:12:49 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 09:12:49 
+2022-11-11 09:12:49 Http Worker is working...
+2022-11-11 09:12:49 GET /css/bootstrap.min.css.map HTTP/1.1
+2022-11-11 09:12:49 > This is a [css] request..
+2022-11-11 09:12:49 >> No such resource:src/resources/templates/css/bootstrap.min.css.map
+2022-11-11 13:17:48 
+2022-11-11 13:17:48 Http Worker is working...
+2022-11-11 13:17:48 GET / HTTP/1.1
+2022-11-11 13:17:48 > This is a [Default] request..
+2022-11-11 13:17:48 >> Rendering contents of the file: index.html
+2022-11-11 13:17:51 
+2022-11-11 13:17:51 Http Worker is working...
+2022-11-11 13:17:51 GET /basic/mailForm HTTP/1.1
+2022-11-11 13:17:51 > This is a [MailForm] request..
+2022-11-11 13:17:51 >> Rendering contents of the file: mailForm.html
+2022-11-11 13:17:51 
+2022-11-11 13:17:51 Http Worker is working...
+2022-11-11 13:17:51 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:17:51 > This is a [css] request..
+2022-11-11 13:17:51 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:18:12 
+2022-11-11 13:18:12 Http Worker is working...
+2022-11-11 13:18:12 GET /basic/mailOK?from=web%40joobin.site&to=sisoya0424%40gmail.com&subject=%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%A0%9C%EB%AA%A9&contents=%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%82%B4%EC%9A%A9%0D%0A HTTP/1.1
+2022-11-11 13:18:12 > This is a [SendingMailSuccessForm] request..
+2022-11-11 13:18:12 >> Rendering contents of the file: mailOK.html
+2022-11-11 13:18:13 
+2022-11-11 13:18:13 Http Worker is working...
+2022-11-11 13:18:13 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:18:13 > This is a [css] request..
+2022-11-11 13:18:13 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:18:15 
+2022-11-11 13:18:15 Http Worker is working...
+2022-11-11 13:18:15 GET /basic/index.html HTTP/1.1
+2022-11-11 13:18:15 > This is a [Default] request..
+2022-11-11 13:18:15 >> Rendering contents of the file: index.html
+2022-11-11 13:18:53 
+2022-11-11 13:18:53 Http Worker is working...
+2022-11-11 13:18:53 GET /basic/mailForm HTTP/1.1
+2022-11-11 13:18:53 > This is a [MailForm] request..
+2022-11-11 13:18:53 >> Rendering contents of the file: mailForm.html
+2022-11-11 13:18:53 
+2022-11-11 13:18:53 Http Worker is working...
+2022-11-11 13:18:53 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:18:53 > This is a [css] request..
+2022-11-11 13:18:53 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:23:58 
+2022-11-11 13:23:58 Http Worker is working...
+2022-11-11 13:23:58 GET /basic/mailForm HTTP/1.1
+2022-11-11 13:23:58 > This is a [MailForm] request..
+2022-11-11 13:23:58 >> Rendering contents of the file: mailForm.html
+2022-11-11 13:24:06 
+2022-11-11 13:24:06 Http Worker is working...
+2022-11-11 13:24:06 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:24:06 > This is a [css] request..
+2022-11-11 13:24:06 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:24:06 
+2022-11-11 13:24:06 Http Worker is working...
+2022-11-11 13:24:06 GET /css/bootstrap.min.css.map HTTP/1.1
+2022-11-11 13:24:06 > This is a [css] request..
+2022-11-11 13:24:06 >> No such resource:src/resources/templates/css/bootstrap.min.css.map
+2022-11-11 13:24:07 
+2022-11-11 13:24:07 Http Worker is working...
+2022-11-11 13:24:07 GET /basic/mailForm HTTP/1.1
+2022-11-11 13:24:07 > This is a [MailForm] request..
+2022-11-11 13:24:07 >> Rendering contents of the file: mailForm.html
+2022-11-11 13:24:07 
+2022-11-11 13:24:07 Http Worker is working...
+2022-11-11 13:24:07 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:24:07 > This is a [css] request..
+2022-11-11 13:24:07 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:24:07 
+2022-11-11 13:24:07 Http Worker is working...
+2022-11-11 13:24:07 GET /css/bootstrap.min.css.map HTTP/1.1
+2022-11-11 13:24:07 > This is a [css] request..
+2022-11-11 13:24:07 >> No such resource:src/resources/templates/css/bootstrap.min.css.map
+2022-11-11 13:26:22 
+2022-11-11 13:26:22 Http Worker is working...
+2022-11-11 13:26:22 GET /basic/mailForm HTTP/1.1
+2022-11-11 13:26:22 > This is a [MailForm] request..
+2022-11-11 13:26:22 >> Rendering contents of the file: mailForm.html
+2022-11-11 13:26:24 
+2022-11-11 13:26:24 Http Worker is working...
+2022-11-11 13:26:24 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:26:24 > This is a [css] request..
+2022-11-11 13:26:24 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:26:25 
+2022-11-11 13:26:25 Http Worker is working...
+2022-11-11 13:26:25 GET /css/bootstrap.min.css.map HTTP/1.1
+2022-11-11 13:26:25 > This is a [css] request..
+2022-11-11 13:26:25 >> No such resource:src/resources/templates/css/bootstrap.min.css.map
+2022-11-11 13:26:41 
+2022-11-11 13:26:41 Http Worker is working...
+2022-11-11 13:26:41 GET / HTTP/1.1
+2022-11-11 13:26:41 > This is a [Default] request..
+2022-11-11 13:26:41 >> Rendering contents of the file: index.html
+2022-11-11 13:27:12 
+2022-11-11 13:27:12 Http Worker is working...
+2022-11-11 13:27:12 GET /basic/mailForm HTTP/1.1
+2022-11-11 13:27:12 > This is a [MailForm] request..
+2022-11-11 13:27:12 >> Rendering contents of the file: mailForm.html
+2022-11-11 13:27:12 
+2022-11-11 13:27:12 Http Worker is working...
+2022-11-11 13:27:12 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:27:12 > This is a [css] request..
+2022-11-11 13:27:12 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:27:52 
+2022-11-11 13:27:52 Http Worker is working...
+2022-11-11 13:27:52 GET /basic/mailOK?from=web%40joobin.site&to=aba0327%40naver.com&subject=%EC%99%9C+%EC%98%88%EC%84%9C+%EC%83%9D%EC%9D%BC%EC%9D%B4%EC%95%BC&contents=%EC%99%9C+%EC%98%88%EC%84%9C+%EC%83%9D%EC%9D%BC%EC%9D%B8%EB%8D%B0+%EC%98%88%EC%9D%80%EC%9D%B4%EA%B0%80+%EC%93%B0%EB%8A%94%EA%B1%B0%EC%95%BC%3F HTTP/1.1
+2022-11-11 13:27:52 > This is a [SendingMailSuccessForm] request..
+2022-11-11 13:27:52 >> Rendering contents of the file: mailOK.html
+2022-11-11 13:27:52 
+2022-11-11 13:27:52 Http Worker is working...
+2022-11-11 13:27:52 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:27:52 > This is a [css] request..
+2022-11-11 13:27:52 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:28:41 
+2022-11-11 13:28:41 Http Worker is working...
+2022-11-11 13:28:41 GET /basic/index.html HTTP/1.1
+2022-11-11 13:28:41 > This is a [Default] request..
+2022-11-11 13:28:41 >> Rendering contents of the file: index.html
+2022-11-11 13:31:52 
+2022-11-11 13:31:52 Http Worker is working...
+2022-11-11 13:31:52 GET /basic/index.html HTTP/1.1
+2022-11-11 13:31:52 > This is a [Default] request..
+2022-11-11 13:31:52 >> Rendering contents of the file: index.html
+2022-11-11 13:33:33 
+2022-11-11 13:33:33 Http Worker is working...
+2022-11-11 13:33:33 GET /basic/index.html HTTP/1.1
+2022-11-11 13:33:33 > This is a [Default] request..
+2022-11-11 13:33:33 >> Rendering contents of the file: index.html
+2022-11-11 13:33:33 
+2022-11-11 13:33:33 Http Worker is working...
+2022-11-11 13:33:33 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:33:33 > This is a [css] request..
+2022-11-11 13:33:33 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:33:43 
+2022-11-11 13:33:43 Http Worker is working...
+2022-11-11 13:33:43 GET /basic/mailForm HTTP/1.1
+2022-11-11 13:33:43 > This is a [MailForm] request..
+2022-11-11 13:33:43 >> Rendering contents of the file: mailForm.html
+2022-11-11 13:33:43 
+2022-11-11 13:33:43 Http Worker is working...
+2022-11-11 13:33:43 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:33:43 > This is a [css] request..
+2022-11-11 13:33:43 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:39:21 
+2022-11-11 13:39:21 Http Worker is working...
+2022-11-11 13:39:21 GET /basic/index.html HTTP/1.1
+2022-11-11 13:39:21 > This is a [Default] request..
+2022-11-11 13:39:21 >> Rendering contents of the file: index.html
+2022-11-11 13:39:21 
+2022-11-11 13:39:21 Http Worker is working...
+2022-11-11 13:39:21 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:39:21 > This is a [css] request..
+2022-11-11 13:39:21 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:40:13 
+2022-11-11 13:40:13 Http Worker is working...
+2022-11-11 13:40:13 GET /basic/index.html HTTP/1.1
+2022-11-11 13:40:13 > This is a [Default] request..
+2022-11-11 13:40:13 >> Rendering contents of the file: index.html
+2022-11-11 13:40:13 
+2022-11-11 13:40:13 Http Worker is working...
+2022-11-11 13:40:13 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:40:13 > This is a [css] request..
+2022-11-11 13:40:13 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:40:43 
+2022-11-11 13:40:43 Http Worker is working...
+2022-11-11 13:40:43 GET /basic/index.html HTTP/1.1
+2022-11-11 13:40:43 > This is a [Default] request..
+2022-11-11 13:40:43 >> Rendering contents of the file: index.html
+2022-11-11 13:40:43 
+2022-11-11 13:40:43 Http Worker is working...
+2022-11-11 13:40:43 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:40:43 > This is a [css] request..
+2022-11-11 13:40:43 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:41:13 
+2022-11-11 13:41:13 Http Worker is working...
+2022-11-11 13:41:13 GET /basic/index.html HTTP/1.1
+2022-11-11 13:41:13 > This is a [Default] request..
+2022-11-11 13:41:13 >> Rendering contents of the file: index.html
+2022-11-11 13:41:13 
+2022-11-11 13:41:13 Http Worker is working...
+2022-11-11 13:41:13 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:41:13 > This is a [css] request..
+2022-11-11 13:41:13 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:43:24 
+2022-11-11 13:43:24 Http Worker is working...
+2022-11-11 13:43:24 GET /basic/index.html HTTP/1.1
+2022-11-11 13:43:24 > This is a [Default] request..
+2022-11-11 13:43:24 >> Rendering contents of the file: index.html
+2022-11-11 13:43:24 
+2022-11-11 13:43:24 Http Worker is working...
+2022-11-11 13:43:24 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:43:24 > This is a [css] request..
+2022-11-11 13:43:24 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:43:54 
+2022-11-11 13:43:54 Http Worker is working...
+2022-11-11 13:43:54 GET /basic/index.html HTTP/1.1
+2022-11-11 13:43:54 > This is a [Default] request..
+2022-11-11 13:43:54 >> Rendering contents of the file: index.html
+2022-11-11 13:43:54 
+2022-11-11 13:43:54 Http Worker is working...
+2022-11-11 13:43:54 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:43:54 > This is a [css] request..
+2022-11-11 13:43:54 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:44:24 
+2022-11-11 13:44:24 Http Worker is working...
+2022-11-11 13:44:24 GET /basic/index.html HTTP/1.1
+2022-11-11 13:44:24 > This is a [Default] request..
+2022-11-11 13:44:24 >> Rendering contents of the file: index.html
+2022-11-11 13:44:24 
+2022-11-11 13:44:24 Http Worker is working...
+2022-11-11 13:44:24 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:44:24 > This is a [css] request..
+2022-11-11 13:44:24 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:44:44 
+2022-11-11 13:44:44 Http Worker is working...
+2022-11-11 13:44:44 GET /basic/index.html HTTP/1.1
+2022-11-11 13:44:44 > This is a [Default] request..
+2022-11-11 13:44:44 >> Rendering contents of the file: index.html
+2022-11-11 13:44:44 
+2022-11-11 13:44:44 Http Worker is working...
+2022-11-11 13:44:44 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:44:44 > This is a [css] request..
+2022-11-11 13:44:44 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:45:44 
+2022-11-11 13:45:44 Http Worker is working...
+2022-11-11 13:45:44 GET /basic/index.html HTTP/1.1
+2022-11-11 13:45:44 > This is a [Default] request..
+2022-11-11 13:45:44 >> Rendering contents of the file: index.html
+2022-11-11 13:45:44 
+2022-11-11 13:45:44 Http Worker is working...
+2022-11-11 13:45:44 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:45:44 > This is a [css] request..
+2022-11-11 13:45:44 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:46:44 
+2022-11-11 13:46:44 Http Worker is working...
+2022-11-11 13:46:44 GET /basic/index.html HTTP/1.1
+2022-11-11 13:46:44 > This is a [Default] request..
+2022-11-11 13:46:44 >> Rendering contents of the file: index.html
+2022-11-11 13:46:44 
+2022-11-11 13:46:44 Http Worker is working...
+2022-11-11 13:46:44 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:46:44 > This is a [css] request..
+2022-11-11 13:46:44 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:46:58 
+2022-11-11 13:46:58 Http Worker is working...
+2022-11-11 13:46:58 GET /basic/index.html HTTP/1.1
+2022-11-11 13:46:58 > This is a [Default] request..
+2022-11-11 13:46:58 >> Rendering contents of the file: index.html
+2022-11-11 13:46:59 
+2022-11-11 13:46:59 Http Worker is working...
+2022-11-11 13:46:59 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:46:59 > This is a [css] request..
+2022-11-11 13:46:59 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:49:27 
+2022-11-11 13:49:27 Http Worker is working...
+2022-11-11 13:49:27 GET /basic/index.html HTTP/1.1
+2022-11-11 13:49:27 > This is a [Default] request..
+2022-11-11 13:49:27 >> Rendering contents of the file: index.html
+2022-11-11 13:49:27 
+2022-11-11 13:49:27 Http Worker is working...
+2022-11-11 13:49:27 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:49:27 > This is a [css] request..
+2022-11-11 13:49:27 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:49:31 
+2022-11-11 13:49:31 Http Worker is working...
+2022-11-11 13:49:31 GET /basic/index.html HTTP/1.1
+2022-11-11 13:49:31 > This is a [Default] request..
+2022-11-11 13:49:31 >> Rendering contents of the file: index.html
+2022-11-11 13:49:31 
+2022-11-11 13:49:31 Http Worker is working...
+2022-11-11 13:49:31 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:49:31 > This is a [css] request..
+2022-11-11 13:49:31 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:49:58 
+2022-11-11 13:49:58 Http Worker is working...
+2022-11-11 13:49:58 GET / HTTP/1.1
+2022-11-11 13:49:58 > This is a [Default] request..
+2022-11-11 13:49:58 
+2022-11-11 13:49:58 Http Worker is working...
+2022-11-11 13:49:58 GET /basic/index.html HTTP/1.1
+2022-11-11 13:49:58 > This is a [Default] request..
+2022-11-11 13:49:58 >> Rendering contents of the file: index.html
+2022-11-11 13:49:58 >> Rendering contents of the file: index.html
+2022-11-11 13:49:58 
+2022-11-11 13:49:58 Http Worker is working...
+2022-11-11 13:49:58 GET / HTTP/1.1
+2022-11-11 13:49:58 > This is a [Default] request..
+2022-11-11 13:49:58 
+2022-11-11 13:49:58 Http Worker is working...
+2022-11-11 13:49:58 GET /basic/index.html HTTP/1.1
+2022-11-11 13:49:58 > This is a [Default] request..
+2022-11-11 13:49:58 >> Rendering contents of the file: index.html
+2022-11-11 13:49:58 >> Rendering contents of the file: index.html
+2022-11-11 13:49:59 
+2022-11-11 13:49:59 Http Worker is working...
+2022-11-11 13:49:59 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:49:59 > This is a [css] request..
+2022-11-11 13:49:59 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:49:59 
+2022-11-11 13:49:59 Http Worker is working...
+2022-11-11 13:49:59 GET / HTTP/1.1
+2022-11-11 13:49:59 > This is a [Default] request..
+2022-11-11 13:49:59 >> Rendering contents of the file: index.html
+2022-11-11 13:49:59 
+2022-11-11 13:49:59 Http Worker is working...
+2022-11-11 13:49:59 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:49:59 > This is a [css] request..
+2022-11-11 13:49:59 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:51:03 
+2022-11-11 13:51:03 Http Worker is working...
+2022-11-11 13:51:03 GET / HTTP/1.1
+2022-11-11 13:51:03 > This is a [Default] request..
+2022-11-11 13:51:03 >> Rendering contents of the file: index.html
+2022-11-11 13:51:03 
+2022-11-11 13:51:03 Http Worker is working...
+2022-11-11 13:51:03 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:51:03 > This is a [css] request..
+2022-11-11 13:51:03 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 13:51:25 
+2022-11-11 13:51:25 Http Worker is working...
+2022-11-11 13:51:25 GET / HTTP/1.1
+2022-11-11 13:51:25 > This is a [Default] request..
+2022-11-11 13:51:25 >> Rendering contents of the file: index.html
+2022-11-11 13:51:25 
+2022-11-11 13:51:25 Http Worker is working...
+2022-11-11 13:51:25 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 13:51:25 > This is a [css] request..
+2022-11-11 13:51:25 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 14:09:44 
+2022-11-11 14:09:44 Http Worker is working...
+2022-11-11 14:09:44 GET / HTTP/1.1
+2022-11-11 14:09:44 > This is a [Default] request..
+2022-11-11 14:09:44 >> Rendering contents of the file: index.html
+2022-11-11 14:09:44 
+2022-11-11 14:09:44 Http Worker is working...
+2022-11-11 14:09:44 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 14:09:44 > This is a [css] request..
+2022-11-11 14:09:44 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 14:09:46 
+2022-11-11 14:09:46 Http Worker is working...
+2022-11-11 14:09:46 GET /basic/mailForm HTTP/1.1
+2022-11-11 14:09:46 > This is a [MailForm] request..
+2022-11-11 14:09:46 >> Rendering contents of the file: mailForm.html
+2022-11-11 14:09:46 
+2022-11-11 14:09:46 Http Worker is working...
+2022-11-11 14:09:46 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 14:09:46 > This is a [css] request..
+2022-11-11 14:09:46 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 14:54:54 
+2022-11-11 14:54:54 Http Worker is working...
+2022-11-11 14:54:54 GET / HTTP/1.1
+2022-11-11 14:54:54 > This is a [Default] request..
+2022-11-11 14:54:54 >> Rendering contents of the file: index.html
+2022-11-11 14:54:54 
+2022-11-11 14:54:54 Http Worker is working...
+2022-11-11 14:54:54 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 14:54:54 > This is a [css] request..
+2022-11-11 14:54:54 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 14:54:55 
+2022-11-11 14:54:55 Http Worker is working...
+2022-11-11 14:54:55 GET /basic/mailForm HTTP/1.1
+2022-11-11 14:54:55 > This is a [MailForm] request..
+2022-11-11 14:54:55 >> Rendering contents of the file: mailForm.html
+2022-11-11 14:54:55 
+2022-11-11 14:54:55 Http Worker is working...
+2022-11-11 14:54:55 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 14:54:55 > This is a [css] request..
+2022-11-11 14:54:55 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 14:55:09 
+2022-11-11 14:55:09 Http Worker is working...
+2022-11-11 14:55:09 GET /basic/mailOK?from=web%40joobin.site&to=sisoya0424%40gmail.com&subject=ttttttttttttt&contents=ssssssssssssss HTTP/1.1
+2022-11-11 14:55:09 > This is a [SendingMailSuccessForm] request..
+2022-11-11 14:55:09 >> Rendering contents of the file: mailOK.html
+2022-11-11 14:55:09 
+2022-11-11 14:55:09 Http Worker is working...
+2022-11-11 14:55:09 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 14:55:09 > This is a [css] request..
+2022-11-11 14:55:09 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 14:55:10 
+2022-11-11 14:55:10 Http Worker is working...
+2022-11-11 14:55:10 GET /basic/index.html HTTP/1.1
+2022-11-11 14:55:10 > This is a [Default] request..
+2022-11-11 14:55:10 >> Rendering contents of the file: index.html
+2022-11-11 14:55:10 
+2022-11-11 14:55:10 Http Worker is working...
+2022-11-11 14:55:10 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 14:55:10 > This is a [css] request..
+2022-11-11 14:55:10 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:06:26 
+2022-11-11 15:06:26 Http Worker is working...
+2022-11-11 15:06:26 GET / HTTP/1.1
+2022-11-11 15:06:26 > This is a [Default] request..
+2022-11-11 15:06:26 >> Rendering contents of the file: index.html
+2022-11-11 15:06:26 
+2022-11-11 15:06:26 Http Worker is working...
+2022-11-11 15:06:26 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:06:26 > This is a [css] request..
+2022-11-11 15:06:26 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:08:14 
+2022-11-11 15:08:14 Http Worker is working...
+2022-11-11 15:08:14 GET / HTTP/1.1
+2022-11-11 15:08:14 > This is a [Default] request..
+2022-11-11 15:08:14 >> Rendering contents of the file: index.html
+2022-11-11 15:08:14 
+2022-11-11 15:08:14 Http Worker is working...
+2022-11-11 15:08:14 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:08:14 > This is a [css] request..
+2022-11-11 15:08:14 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:09:00 
+2022-11-11 15:09:00 Http Worker is working...
+2022-11-11 15:09:00 GET / HTTP/1.1
+2022-11-11 15:09:00 > This is a [Default] request..
+2022-11-11 15:09:00 >> Rendering contents of the file: index.html
+2022-11-11 15:09:00 
+2022-11-11 15:09:00 Http Worker is working...
+2022-11-11 15:09:00 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:09:00 > This is a [css] request..
+2022-11-11 15:09:00 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:12:29 
+2022-11-11 15:12:29 >> Rendering contents of the file: index.html
+2022-11-11 15:12:29 Http Worker is working...
+2022-11-11 15:12:29 GET / HTTP/1.1
+2022-11-11 15:12:29 > This is a [Default] request..
+2022-11-11 15:12:29 >> Rendering contents of the file: index.html
+2022-11-11 15:12:29 
+2022-11-11 15:12:29 >> Rendering contents of the file: index.html
+2022-11-11 15:12:29 Http Worker is working...
+2022-11-11 15:12:29 GET / HTTP/1.1
+2022-11-11 15:12:29 > This is a [Default] request..
+2022-11-11 15:12:29 >> Rendering contents of the file: index.html
+2022-11-11 15:12:29 
+2022-11-11 15:12:29 Http Worker is working...
+2022-11-11 15:12:29 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:12:29 > This is a [css] request..
+2022-11-11 15:12:29 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:20:58 
+2022-11-11 15:20:58 Http Worker is working...
+2022-11-11 15:20:58 GET / HTTP/1.1
+2022-11-11 15:20:58 > This is a [Default] request..
+2022-11-11 15:20:58 >> Rendering contents of the file: index.html
+2022-11-11 15:20:58 
+2022-11-11 15:20:58 Http Worker is working...
+2022-11-11 15:20:58 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:20:58 > This is a [css] request..
+2022-11-11 15:20:58 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:20:59 
+2022-11-11 15:20:59 Http Worker is working...
+2022-11-11 15:20:59 GET /basic/mailForm HTTP/1.1
+2022-11-11 15:20:59 > This is a [MailForm] request..
+2022-11-11 15:20:59 >> Rendering contents of the file: mailForm.html
+2022-11-11 15:20:59 
+2022-11-11 15:20:59 Http Worker is working...
+2022-11-11 15:20:59 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:20:59 > This is a [css] request..
+2022-11-11 15:20:59 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:27:18 
+2022-11-11 15:27:19 Http Worker is working...
+2022-11-11 15:27:19 GET / HTTP/1.1
+2022-11-11 15:27:19 > This is a [Default] request..
+2022-11-11 15:27:19 >> Rendering contents of the file: index.html
+2022-11-11 15:27:20 
+2022-11-11 15:27:20 Http Worker is working...
+2022-11-11 15:27:20 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:27:20 > This is a [css] request..
+2022-11-11 15:27:20 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:30:09 
+2022-11-11 15:30:09 Http Worker is working...
+2022-11-11 15:30:09 GET /basic/mailForm/ HTTP/1.1
+2022-11-11 15:30:09 > This is a [MailForm] request..
+2022-11-11 15:30:09 >> Rendering contents of the file: mailForm.html
+2022-11-11 15:30:09 
+2022-11-11 15:30:09 Http Worker is working...
+2022-11-11 15:30:09 GET /basic/css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:30:09 404(NotFound): /basic/css/bootstrap.min.css
+2022-11-11 15:32:22 
+2022-11-11 15:32:22 Http Worker is working...
+2022-11-11 15:32:22 GET /basic/mailForm/ HTTP/1.1
+2022-11-11 15:32:22 
+2022-11-11 15:32:22 Http Worker is working...
+2022-11-11 15:32:22 GET /basic/mailForm/ HTTP/1.1
+2022-11-11 15:32:22 > This is a [MailForm] request..
+2022-11-11 15:32:22 >> Rendering contents of the file: mailForm.html
+2022-11-11 15:32:22 > This is a [MailForm] request..
+2022-11-11 15:32:22 >> Rendering contents of the file: mailForm.html
+2022-11-11 15:32:22 
+2022-11-11 15:32:22 Http Worker is working...
+2022-11-11 15:32:22 GET /basic/mailForm/ HTTP/1.1
+2022-11-11 15:32:22 
+2022-11-11 15:32:22 Http Worker is working...
+2022-11-11 15:32:22 GET /basic/mailForm/ HTTP/1.1
+2022-11-11 15:32:22 > This is a [MailForm] request..
+2022-11-11 15:32:22 >> Rendering contents of the file: mailForm.html
+2022-11-11 15:32:22 > This is a [MailForm] request..
+2022-11-11 15:32:22 >> Rendering contents of the file: mailForm.html
+2022-11-11 15:32:22 
+2022-11-11 15:32:22 Http Worker is working...
+2022-11-11 15:32:22 GET /basic/css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:32:22 404(NotFound): /basic/css/bootstrap.min.css
+2022-11-11 15:32:24 
+2022-11-11 15:32:24 Http Worker is working...
+2022-11-11 15:32:24 GET /basic/mailForm/ HTTP/1.1
+2022-11-11 15:32:24 > This is a [MailForm] request..
+2022-11-11 15:32:24 >> Rendering contents of the file: mailForm.html
+2022-11-11 15:32:24 
+2022-11-11 15:32:24 Http Worker is working...
+2022-11-11 15:32:24 GET /basic/css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:32:24 404(NotFound): /basic/css/bootstrap.min.css
+2022-11-11 15:32:26 
+2022-11-11 15:32:26 Http Worker is working...
+2022-11-11 15:32:26 GET /basic/mailForm HTTP/1.1
+2022-11-11 15:32:26 > This is a [MailForm] request..
+2022-11-11 15:32:26 >> Rendering contents of the file: mailForm.html
+2022-11-11 15:32:26 
+2022-11-11 15:32:26 Http Worker is working...
+2022-11-11 15:32:26 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:32:26 > This is a [css] request..
+2022-11-11 15:32:26 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:32:45 
+2022-11-11 15:32:45 Http Worker is working...
+2022-11-11 15:32:45 GET /basic/mailOK?from=asdas&to=dsfasdf&subject=asdasd&contents=test+message%0D%0A%ED%85%8C%EC%8A%A4%ED%8A%B8+%EB%A9%94%EC%8B%9C%EC%A7%80%0D%0A%40%23%24%23 HTTP/1.1
+2022-11-11 15:32:46 > This is a [SendingMailSuccessForm] request..
+2022-11-11 15:32:46 >> Rendering contents of the file: mailOK.html
+2022-11-11 15:32:46 
+2022-11-11 15:32:46 Http Worker is working...
+2022-11-11 15:32:46 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:32:46 > This is a [css] request..
+2022-11-11 15:32:46 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:34:13 
+2022-11-11 15:34:13 Http Worker is working...
+2022-11-11 15:34:13 GET /basic/index.html HTTP/1.1
+2022-11-11 15:34:13 > This is a [Default] request..
+2022-11-11 15:34:14 >> Rendering contents of the file: index.html
+2022-11-11 15:34:14 
+2022-11-11 15:34:14 Http Worker is working...
+2022-11-11 15:34:14 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:34:14 > This is a [css] request..
+2022-11-11 15:34:14 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 15:37:22 
+2022-11-11 15:37:22 
+2022-11-11 15:37:22 Http Worker is working...
+2022-11-11 15:37:22 Http Worker is working...
+2022-11-11 15:37:22 GET /basic/index.html HTTP/1.1
+2022-11-11 15:37:22 > This is a [Default] request..
+2022-11-11 15:37:22 GET /basic/index.html HTTP/1.1
+2022-11-11 15:37:22 > This is a [Default] request..
+2022-11-11 15:37:22 >> Rendering contents of the file: index.html
+2022-11-11 15:37:22 >> Rendering contents of the file: index.html
+2022-11-11 15:37:22 
+2022-11-11 15:37:22 
+2022-11-11 15:37:22 Http Worker is working...
+2022-11-11 15:37:22 Http Worker is working...
+2022-11-11 15:37:22 GET /basic/index.html HTTP/1.1
+2022-11-11 15:37:22 > This is a [Default] request..
+2022-11-11 15:37:22 GET /basic/index.html HTTP/1.1
+2022-11-11 15:37:22 > This is a [Default] request..
+2022-11-11 15:37:22 >> Rendering contents of the file: index.html
+2022-11-11 15:37:22 >> Rendering contents of the file: index.html
+2022-11-11 15:37:22 
+2022-11-11 15:37:22 Http Worker is working...
+2022-11-11 15:37:22 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 15:37:22 > This is a [css] request..
+2022-11-11 15:37:22 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 16:32:50 
+2022-11-11 16:32:50 Http Worker is working...
+2022-11-11 16:32:50 GET / HTTP/1.1
+2022-11-11 16:32:50 > This is a [Default] request..
+2022-11-11 16:32:50 >> Rendering contents of the file: index.html
+2022-11-11 16:32:51 
+2022-11-11 16:32:51 Http Worker is working...
+2022-11-11 16:32:51 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 16:32:51 > This is a [css] request..
+2022-11-11 16:32:51 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 16:32:54 
+2022-11-11 16:32:54 Http Worker is working...
+2022-11-11 16:32:54 GET /basic/mailForm HTTP/1.1
+2022-11-11 16:32:54 > This is a [MailForm] request..
+2022-11-11 16:32:54 >> Rendering contents of the file: mailForm.html
+2022-11-11 16:32:54 
+2022-11-11 16:32:54 Http Worker is working...
+2022-11-11 16:32:54 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 16:32:54 > This is a [css] request..
+2022-11-11 16:32:54 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 16:33:31 
+2022-11-11 16:33:31 Http Worker is working...
+2022-11-11 16:33:31 GET /basic/mailOK?from=web%40joobin.site&to=b21b05%40naver.com&subject=%EC%98%A4%EC%B0%BD%ED%98%84+%EB%B0%94%EB%B3%B4&contents=%EB%B9%84%EB%B0%94%EB%A6%89%E3%85%81%EC%9D%B4+%EC%82%90%EB%83%90+%EC%9D%B4%EC%83%81%ED%95%B4 HTTP/1.1
+2022-11-11 16:33:31 > This is a [SendingMailSuccessForm] request..
+2022-11-11 16:33:31 >> Rendering contents of the file: mailOK.html
+2022-11-11 16:33:31 
+2022-11-11 16:33:31 Http Worker is working...
+2022-11-11 16:33:31 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 16:33:31 > This is a [css] request..
+2022-11-11 16:33:31 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 16:33:32 
+2022-11-11 16:33:32 Http Worker is working...
+2022-11-11 16:33:32 GET /basic/index.html HTTP/1.1
+2022-11-11 16:33:32 > This is a [Default] request..
+2022-11-11 16:33:32 >> Rendering contents of the file: index.html
+2022-11-11 16:33:32 
+2022-11-11 16:33:32 Http Worker is working...
+2022-11-11 16:33:32 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 16:33:32 > This is a [css] request..
+2022-11-11 16:33:32 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 16:34:49 
+2022-11-11 16:34:49 Http Worker is working...
+2022-11-11 16:34:49 GET /basic/mailForm HTTP/1.1
+2022-11-11 16:34:49 >> Rendering contents of the file: mailForm.html
+2022-11-11 16:34:49 > This is a [MailForm] request..
+2022-11-11 16:34:49 >> Rendering contents of the file: mailForm.html
+2022-11-11 16:34:49 
+2022-11-11 16:34:49 Http Worker is working...
+2022-11-11 16:34:49 GET /basic/mailForm HTTP/1.1
+2022-11-11 16:34:49 >> Rendering contents of the file: mailForm.html
+2022-11-11 16:34:49 > This is a [MailForm] request..
+2022-11-11 16:34:49 >> Rendering contents of the file: mailForm.html
+2022-11-11 16:34:49 
+2022-11-11 16:34:49 Http Worker is working...
+2022-11-11 16:34:49 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 16:34:49 > This is a [css] request..
+2022-11-11 16:34:49 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 16:35:55 
+2022-11-11 16:35:55 Http Worker is working...
+2022-11-11 16:35:55 GET /basic/mailOK?from=web%40joobin.site&to=b21b05%40naver.com&subject=dfasdfasdf&contents=%EC%98%A4%EC%B0%BD%ED%98%84%EB%B0%94%EB%B3%B4 HTTP/1.1
+2022-11-11 16:35:55 > This is a [SendingMailSuccessForm] request..
+2022-11-11 16:35:55 >> Rendering contents of the file: mailOK.html
+2022-11-11 16:35:55 
+2022-11-11 16:35:55 Http Worker is working...
+2022-11-11 16:35:55 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 16:35:55 > This is a [css] request..
+2022-11-11 16:35:55 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 16:36:11 
+2022-11-11 16:36:11 Http Worker is working...
+2022-11-11 16:36:11 GET /basic/index.html HTTP/1.1
+2022-11-11 16:36:11 > This is a [Default] request..
+2022-11-11 16:36:11 >> Rendering contents of the file: index.html
+2022-11-11 16:36:11 
+2022-11-11 16:36:11 Http Worker is working...
+2022-11-11 16:36:11 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 16:36:11 > This is a [css] request..
+2022-11-11 16:36:11 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 16:36:21 
+2022-11-11 16:36:21 Http Worker is working...
+2022-11-11 16:36:21 GET /basic/mailForm HTTP/1.1
+2022-11-11 16:36:21 > This is a [MailForm] request..
+2022-11-11 16:36:21 >> Rendering contents of the file: mailForm.html
+2022-11-11 16:36:21 
+2022-11-11 16:36:21 Http Worker is working...
+2022-11-11 16:36:21 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 16:36:21 > This is a [css] request..
+2022-11-11 16:36:21 >> Rendering contents of the file: bootstrap.min.css
+2022-11-11 16:36:42 
+2022-11-11 16:36:42 Http Worker is working...
+2022-11-11 16:36:42 GET /basic/mailOK?from=web%40joobin.site&to=sisoya0424%40naver.com&subject=testse&contents=sdsfsadf%EC%98%A4%EC%B0%BD%ED%98%84%EB%B0%94%EB%B3%B4 HTTP/1.1
+2022-11-11 16:36:42 > This is a [SendingMailSuccessForm] request..
+2022-11-11 16:36:42 >> Rendering contents of the file: mailOK.html
+2022-11-11 16:36:42 
+2022-11-11 16:36:42 Http Worker is working...
+2022-11-11 16:36:42 GET /css/bootstrap.min.css HTTP/1.1
+2022-11-11 16:36:42 > This is a [css] request..
+2022-11-11 16:36:42 >> Rendering contents of the file: bootstrap.min.css
